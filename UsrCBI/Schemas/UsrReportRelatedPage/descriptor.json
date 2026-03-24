@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "685cbb22-9fe5-4dc8-8a09-85e0ac3010dd",
+    "Name": "UsrReportRelatedPage",
+    "ModifiedOnUtc": "\/Date(1774363495000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Report (Page settings)",
+    "DependsOn": []
+  }
+}

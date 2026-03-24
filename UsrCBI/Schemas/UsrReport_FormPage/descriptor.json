@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9bbac70c-c143-4743-a4f1-179ca9a664b1",
+    "Name": "UsrReport_FormPage",
+    "ModifiedOnUtc": "\/Date(1774363495000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Report form page",
+    "DependsOn": []
+  }
+}

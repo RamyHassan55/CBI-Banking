@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "86990f04-771b-4367-9552-a2f32bb60276",
+    "Name": "UsrReport_ListPage",
+    "ModifiedOnUtc": "\/Date(1774363495000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Report list page",
+    "DependsOn": []
+  }
+}
