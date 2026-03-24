@@ -1,0 +1,31 @@
+{
+  "SkeletonLoader": {
+    "Loading": "載入中..."
+  },
+  "CopyClipboard": {
+    "Copied": "複製"
+  },
+  "Placeholder": {
+    "Default": {
+      "Title": "尚未有任何顯示",
+      "Subhead": "請先新增資料"
+    }
+  },
+  "ChatSettings": {
+    "History": {
+      "Captions": {
+        "StartDate": "聊天開始：{0}由",
+        "EndDate": "聊天完成：{0}由"
+      }
+    }
+  },
+  "MaskLoader": {
+    "Loading": "載入中"
+  },
+  "Tooltip": {
+    "Mode": {
+      "Error": "錯誤",
+      "Default": "工具提示"
+    }
+  }
+}

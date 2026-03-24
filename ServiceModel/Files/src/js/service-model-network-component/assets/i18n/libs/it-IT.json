@@ -1,0 +1,31 @@
+{
+  "SkeletonLoader": {
+    "Loading": "In caricamento..."
+  },
+  "CopyClipboard": {
+    "Copied": "Copiato"
+  },
+  "Placeholder": {
+    "Default": {
+      "Title": "Niente da mostrare ancora ",
+      "Subhead": "Si prega di aggiungere i dati prima"
+    }
+  },
+  "ChatSettings": {
+    "History": {
+      "Captions": {
+        "StartDate": "Chat iniziata: {0} da",
+        "EndDate": "Chat completata: {0} da"
+      }
+    }
+  },
+  "MaskLoader": {
+    "Loading": "In caricamento"
+  },
+  "Tooltip": {
+    "Mode": {
+      "Error": "Errore",
+      "Default": "Suggerimento"
+    }
+  }
+}

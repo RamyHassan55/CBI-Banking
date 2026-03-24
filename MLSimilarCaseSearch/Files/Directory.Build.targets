@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/MLSimilarCaseSearch/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/MLSimilarCaseSearch/Data/**" />
+		<Compile Remove="$(PkgPath)/MLSimilarCaseSearch/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/MLSimilarCaseSearch/Schemas\**" />
+		<Compile Remove="$(PkgPath)/MLSimilarCaseSearch/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MLSimilarCaseSearch/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MLSimilarCaseSearch/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MLSimilarCaseSearch/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MLSimilarCaseSearch/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MLSimilarCaseSearch/Resources/**" />
+		<None Remove="$(PkgPath)/MLSimilarCaseSearch/Assemblies/**" />
+		<None Remove="$(PkgPath)/MLSimilarCaseSearch/Data/**" />
+		<None Remove="$(PkgPath)/MLSimilarCaseSearch/SqlScripts/**" />
+		<None Remove="$(PkgPath)/MLSimilarCaseSearch/Schemas/**" />
+		<None Remove="$(PkgPath)/MLSimilarCaseSearch/Resources/**" />
+  </ItemGroup>
+</Project>

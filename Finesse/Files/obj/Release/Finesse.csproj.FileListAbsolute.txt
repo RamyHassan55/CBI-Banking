@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Finesse\Files\Bin\Finesse.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Finesse\Files\Bin\Finesse.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Finesse\Files\obj\Release\Finesse.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Finesse\Files\obj\Release\Finesse.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Finesse\Files\obj\Release\Finesse.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Finesse\Files\obj\Release\Finesse.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Finesse\Files\obj\Release\Finesse.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Finesse\Files\obj\Release\Finesse.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Finesse\Files\obj\Release\Finesse.pdb

@@ -1,0 +1,47 @@
+{
+	"SpecialLinks": {
+		"Unsubscribe": "Unsubscribe"
+	},
+	"OpenFreedomEmailDesigner": {
+		"SysSettingsError": "We're unable to connect to service. Please complete “Identity server Url“, “Identity server client id“, “Identity server client secret“ and “Social Web App Account“ system settings and try again."
+	},
+	"UpdateEmailLanguageTemplatesRequestHandler": {
+		"Dialog": {
+			"Title": "Confirmation required",
+			"Message": "If you proceed, the set of templates (total: {{templatesToDelete}}) will be permanently deleted. Are you sure you want to continue?",
+			"ConfirmButton": "Confirm",
+			"CancelButton": "Cancel"
+		}
+	},
+	"ManageConditions": {
+		"Label": "Set up conditions"
+	},
+	"DeleteConditionRequestHandler": {
+		"UnableToDeleteMessage": "Unable to delete: this display condition is applied to a row in a following languages {0}. Remove it from the row first."
+	},
+	"AddDisplayConditionMaxCountReachedModal": {
+		"Title": "Display condition limit reached",
+		"Message": "A maximum of {{count}} display conditions can be set for this bulk email. To add a new condition, remove or update an existing one. To learn more about increasing this limit, see the Academy article.",
+		"CloseButton": "Close",
+		"LearnMoreButton": "Learn more",
+		"AcademyLink": "https://academy.creatio.com/documents?id=2596"
+	},
+	"ManageDisplayConditionNotAllowedModal": {
+		"Title": "Display conditions are not supported within classic Creatio interface",
+		"Message": "Display conditions cannot be created when classic Creatio interface is used. Please adjust your configuration to enable condition setup.",
+		"OkButton": "OK"
+	},
+	"BulkEmailLanguagesMaxCountReachedModal": {
+		"Title": "Language limit reached",
+		"Message": "A maximum of {{count}} languages can be configured for this bulk email. To learn more about increasing this limit, see the Academy article.",
+		"CloseButton": "Close",
+		"LearnMoreButton": "Learn more",
+		"AcademyLink": "https://academy.creatio.com/documents?id=2571"
+	},
+	"EmailDesignerTemplateLanguageSwitchDialog": {
+		"Title": "You have unsaved changes",
+		"Message": "Switching the template language will reset last changes made to the current template. Are you sure you want to continue?",
+		"ConfirmButton": "Ok",
+		"CancelButton": "Cancel"
+	}
+}

@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEventMarketingApp\Files\Bin\CrtEventMarketingApp.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEventMarketingApp\Files\Bin\CrtEventMarketingApp.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEventMarketingApp\Files\obj\Release\CrtEventMarketingApp.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEventMarketingApp\Files\obj\Release\CrtEventMarketingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEventMarketingApp\Files\obj\Release\CrtEventMarketingApp.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEventMarketingApp\Files\obj\Release\CrtEventMarketingApp.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEventMarketingApp\Files\obj\Release\CrtEventMarketingApp.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEventMarketingApp\Files\obj\Release\CrtEventMarketingApp.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEventMarketingApp\Files\obj\Release\CrtEventMarketingApp.pdb

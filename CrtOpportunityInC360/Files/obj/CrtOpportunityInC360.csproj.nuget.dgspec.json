@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtOpportunityInC360\\Files\\CrtOpportunityInC360.csproj": {}
+  },
+  "projects": {
+    "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtOpportunityInC360\\Files\\CrtOpportunityInC360.csproj": {
+      "version": "8.3.1.4498",
+      "restore": {
+        "projectUniqueName": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtOpportunityInC360\\Files\\CrtOpportunityInC360.csproj",
+        "projectName": "CrtOpportunityInC360",
+        "projectPath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtOpportunityInC360\\Files\\CrtOpportunityInC360.csproj",
+        "packagesPath": "C:\\Users\\CIAdmin\\.nuget\\packages\\",
+        "outputPath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtOpportunityInC360\\Files\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CIAdmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://ts1-infr-nexus.bpmonline.com/repository/nuget-v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

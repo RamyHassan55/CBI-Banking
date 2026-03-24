@@ -1,0 +1,47 @@
+{
+	"SpecialLinks": {
+		"Unsubscribe": "Отписка"
+	},
+	"OpenFreedomEmailDesigner": {
+		"SysSettingsError": "Нам не удается подключиться к сервису. Пожалуйста, заполните системные настройки «Identity server Url», «Identity server client id“», «Identity server client secret» и «Social Web App Account» и повторите попытку."
+	},
+	"UpdateEmailLanguageTemplatesRequestHandler": {
+		"Dialog": {
+			"Title": "Подтвердите действие",
+			"Message": "Если вы продолжите, набор шаблонов (всего: {{templatesToDelete}}) будет безвозвратно удалён. Вы уверены, что хотите продолжить?",
+			"ConfirmButton": "Продолжить",
+			"CancelButton": "Отмена"
+		}
+	},
+	"ManageConditions": {
+		"Label": "Правила отображения"
+	},
+	"DeleteConditionRequestHandler": {
+		"UnableToDeleteMessage": "Невозможно удалить: это условие отображения применяется к строке в следующих языках {0}. Сначала удалите его из строки."
+	},
+	"AddDisplayConditionMaxCountReachedModal": {
+		"Title": "Достигнут лимит условий отображения",
+		"Message": "Для этой рассылки можно настроить не более {{count}} условий отображения. Чтобы создать новое условие, необходимо удалить или изменить одно из существующих. Чтобы узнать больше о повышении этого ограничения, ознакомьтесь со статьёй на Академии.",
+		"CloseButton": "Закрыть",
+		"LearnMoreButton": "Подробнее",
+		"AcademyLink": "https://academy.creatio.com/documents?id=2596"
+	},
+	"BulkEmailLanguagesMaxCountReachedModal": {
+		"Title": "Достигнут лимит языков",
+		"Message": "Для этой рассылки можно настроить не более {{count}} языков. Чтобы узнать больше о повышении этого ограничения, ознакомьтесь со статьёй на Академии.",
+		"CloseButton": "Закрыть",
+		"LearnMoreButton": "Подробнее",
+		"AcademyLink": "https://academy.creatio.com/documents?id=2571"
+	},
+	"ManageDisplayConditionNotAllowedModal": {
+		"Title": "Условия отображения не поддерживаются при работе в интерфейсе Classic",
+		"Message": "Невозможно создать условия отображения при работе в интерфейсе Classic. Пожалуйста, измените конфигурацию, чтобы включить настройку условий.",
+		"OkButton": "OK"
+	},
+	"EmailDesignerTemplateLanguageSwitchDialog": {
+		"Title": "Изменения не сохранены",
+		"Message": "Переключение языка шаблона приведёт к сбросу последних изменений, внесённых в текущий шаблон. Вы уверены, что хотите продолжить?",
+		"ConfirmButton": "OK",
+		"CancelButton": "Отмена"
+	}
+}

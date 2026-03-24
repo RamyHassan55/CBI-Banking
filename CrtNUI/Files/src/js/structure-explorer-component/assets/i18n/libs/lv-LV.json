@@ -1,0 +1,31 @@
+{
+  "SkeletonLoader": {
+    "Loading": "Ielāde..."
+  },
+  "CopyClipboard": {
+    "Copied": "Kopēts"
+  },
+  "Placeholder": {
+    "Default": {
+      "Title": "Pagaidām nekas nav parādīts ",
+      "Subhead": "Lūdzu, pievienojiet datus vispirms"
+    }
+  },
+  "ChatSettings": {
+    "History": {
+      "Captions": {
+        "StartDate": "Tērzēšana sākās: {0} pēc",
+        "EndDate": "Tērzēšana pabeigta {0} ar"
+      }
+    }
+  },
+  "MaskLoader": {
+    "Loading": "Ielāde"
+  },
+  "Tooltip": {
+    "Mode": {
+      "Error": "Kļūda",
+      "Default": "Rīkjosla"
+    }
+  }
+}

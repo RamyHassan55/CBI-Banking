@@ -1,0 +1,6 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtLandingPageAnalytics/Schemas/LandingPage/LandingPage.cs" Condition="Exists('$(PkgPath)/CrtLandingPageAnalytics/Schemas/LandingPage/LandingPage.cs')" />
+		<Compile Include="$(PkgPath)/CrtLandingPageAnalytics/Schemas/WebPage/WebPage.cs" Condition="Exists('$(PkgPath)/CrtLandingPageAnalytics/Schemas/WebPage/WebPage.cs')" />
+	</ItemGroup>
+</Project>

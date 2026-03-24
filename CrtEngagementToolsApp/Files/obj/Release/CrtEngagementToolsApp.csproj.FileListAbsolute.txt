@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementToolsApp\Files\Bin\CrtEngagementToolsApp.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementToolsApp\Files\Bin\CrtEngagementToolsApp.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementToolsApp\Files\obj\Release\CrtEngagementToolsApp.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementToolsApp\Files\obj\Release\CrtEngagementToolsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementToolsApp\Files\obj\Release\CrtEngagementToolsApp.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementToolsApp\Files\obj\Release\CrtEngagementToolsApp.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementToolsApp\Files\obj\Release\CrtEngagementToolsApp.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementToolsApp\Files\obj\Release\CrtEngagementToolsApp.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementToolsApp\Files\obj\Release\CrtEngagementToolsApp.pdb

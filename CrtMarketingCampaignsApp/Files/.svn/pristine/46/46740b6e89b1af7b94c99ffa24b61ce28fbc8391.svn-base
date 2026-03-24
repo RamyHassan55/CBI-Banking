@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/CrtMarketingCampaignsApp/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/CrtMarketingCampaignsApp/Data/**" />
+		<Compile Remove="$(PkgPath)/CrtMarketingCampaignsApp/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/CrtMarketingCampaignsApp/Schemas\**" />
+		<Compile Remove="$(PkgPath)/CrtMarketingCampaignsApp/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtMarketingCampaignsApp/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtMarketingCampaignsApp/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtMarketingCampaignsApp/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtMarketingCampaignsApp/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtMarketingCampaignsApp/Resources/**" />
+		<None Remove="$(PkgPath)/CrtMarketingCampaignsApp/Assemblies/**" />
+		<None Remove="$(PkgPath)/CrtMarketingCampaignsApp/Data/**" />
+		<None Remove="$(PkgPath)/CrtMarketingCampaignsApp/SqlScripts/**" />
+		<None Remove="$(PkgPath)/CrtMarketingCampaignsApp/Schemas/**" />
+		<None Remove="$(PkgPath)/CrtMarketingCampaignsApp/Resources/**" />
+  </ItemGroup>
+</Project>

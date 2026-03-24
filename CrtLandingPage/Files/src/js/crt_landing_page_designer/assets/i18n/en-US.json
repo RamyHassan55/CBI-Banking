@@ -1,0 +1,27 @@
+{
+	"OpenLandingPageDesigner": {
+		"SysSettingsError": "We're unable to connect to service. Please complete “Identity server Url“, “Identity server client id“, “Identity server client secret“ and “Social Web App Account“ system settings and try again."
+	},
+	"PublishLandingPage": {
+		"RequestError": "Publishing failed. Please try again later or contact the system administrator for assistance"
+	},
+	"UnpublishLandingPage": {
+		"RequestError": "Unpublishing failed. Please try again later or contact the system administrator for assistance"
+	},
+	"ExportContent": {
+		"DownloadStarted": "Download started",
+		"DownloadError": "Download failed. Please try again"
+	},
+	"UnpublishModal": {
+		"Title": "Unpublish the landing page?",
+		"Message": "This page will be unpublished right away. Please ensure all links to it are updated or redirected",
+		"CancelButton": "Cancel",
+		"UnpublishButton": "Unpublish"
+	},
+	"ManageForm": {
+		"Label": "Form settings"
+	},
+	"CopyLandingPage": {
+		"RequestError": "Something went wrong while copying the landing page. Please try again"
+	}
+}

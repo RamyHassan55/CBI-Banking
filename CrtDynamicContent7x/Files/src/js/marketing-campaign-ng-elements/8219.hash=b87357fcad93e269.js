@@ -1,0 +1,1 @@
+(self.webpackChunkapp_studio_enterprise_marketing_campaign=self.webpackChunkapp_studio_enterprise_marketing_campaign||[]).push([[8219],{98219:(p,e,n)=>{n.r(e),n.d(e,{marker:()=>a});function a(r){return r}}}]);

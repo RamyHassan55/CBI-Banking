@@ -1,0 +1,6 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtLeadOppMgmtApp/Schemas/Opportunity/Opportunity.cs" Condition="Exists('$(PkgPath)/CrtLeadOppMgmtApp/Schemas/Opportunity/Opportunity.cs')" />
+		<Compile Include="$(PkgPath)/CrtLeadOppMgmtApp/Schemas/Lead/Lead.cs" Condition="Exists('$(PkgPath)/CrtLeadOppMgmtApp/Schemas/Lead/Lead.cs')" />
+	</ItemGroup>
+</Project>

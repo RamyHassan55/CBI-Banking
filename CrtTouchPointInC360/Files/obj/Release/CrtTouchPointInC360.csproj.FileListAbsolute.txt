@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInC360\Files\Bin\CrtTouchPointInC360.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInC360\Files\Bin\CrtTouchPointInC360.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInC360\Files\obj\Release\CrtTouchPointInC360.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInC360\Files\obj\Release\CrtTouchPointInC360.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInC360\Files\obj\Release\CrtTouchPointInC360.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInC360\Files\obj\Release\CrtTouchPointInC360.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInC360\Files\obj\Release\CrtTouchPointInC360.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInC360\Files\obj\Release\CrtTouchPointInC360.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInC360\Files\obj\Release\CrtTouchPointInC360.pdb

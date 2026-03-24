@@ -1,0 +1,9 @@
+using System.Runtime.CompilerServices;
+[assembly: InternalsVisibleTo(@"CrtEmailDesigner")]
+[assembly: InternalsVisibleTo(@"CrtLandingPage")]
+[assembly: InternalsVisibleTo(@"CrtEmailDesignerInEmailMarketing")]
+[assembly: InternalsVisibleTo(@"CrtEmailDesignerTests")]
+[assembly: InternalsVisibleTo(@"CrtBfUtilitiesTests")]
+[assembly: InternalsVisibleTo(@"CrtEmailDesignerInEmailMarketingTests")]
+[assembly: InternalsVisibleTo(@"CrtLandingPageTests")]
+[assembly: InternalsVisibleTo("DynamicProxyGenAssembly2")]

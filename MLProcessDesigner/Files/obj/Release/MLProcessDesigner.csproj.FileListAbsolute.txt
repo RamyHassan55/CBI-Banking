@@ -1,0 +1,12 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\Bin\MLProcessDesigner.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\Bin\MLProcessDesigner.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\Bin\CsvHelper.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\Bin\Microsoft.Bcl.HashCode.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\obj\Release\MLProcessDesigner.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\obj\Release\MLProcessDesigner.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\obj\Release\MLProcessDesigner.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\obj\Release\MLProcessDesigner.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\obj\Release\MLProcessDesigner.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\obj\Release\MLProces.AE182BFB.Up2Date
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\obj\Release\MLProcessDesigner.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\obj\Release\MLProcessDesigner.pdb

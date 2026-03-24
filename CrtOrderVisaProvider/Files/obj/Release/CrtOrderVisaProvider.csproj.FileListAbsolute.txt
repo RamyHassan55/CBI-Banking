@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\Bin\CrtOrderVisaProvider.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\Bin\CrtOrderVisaProvider.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.pdb

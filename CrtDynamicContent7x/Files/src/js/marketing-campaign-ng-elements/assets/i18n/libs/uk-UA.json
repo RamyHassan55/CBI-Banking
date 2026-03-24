@@ -1,0 +1,31 @@
+{
+  "SkeletonLoader": {
+    "Loading": "Завантаження..."
+  },
+  "CopyClipboard": {
+    "Copied": "Скопійовано"
+  },
+  "Placeholder": {
+    "Default": {
+      "Title": "Немає що показувати ",
+      "Subhead": "Будь ласка, спочатку додайте дані"
+    }
+  },
+  "ChatSettings": {
+    "History": {
+      "Captions": {
+        "StartDate": "Чат розпочато: {0} ",
+        "EndDate": "Чат завершено: {0} "
+      }
+    }
+  },
+  "MaskLoader": {
+    "Loading": "Завантаження"
+  },
+  "Tooltip": {
+    "Mode": {
+      "Error": "Помилка",
+      "Default": "Підказка"
+    }
+  }
+}

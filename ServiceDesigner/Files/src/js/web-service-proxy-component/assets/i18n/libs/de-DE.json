@@ -1,0 +1,91 @@
+{
+  "SkeletonLoader": {
+    "Loading": "Ladevorgang"
+  },
+  "CopyClipboard": {
+    "Copied": "Kopiert"
+  },
+  "Placeholder": {
+    "Default": {
+      "Title": "Noch nichts anzuzeigen ",
+      "Subhead": "Bitte zuerst Daten hinzufügen"
+    }
+  },
+  "ChatSettings": {
+    "History": {
+      "Captions": {
+        "StartDate": "Chat gestartet: {0} von",
+        "EndDate": "Chat abgeschlossen {0} von"
+      }
+    }
+  },
+  "MaskLoader": {
+    "Loading": "Lädt"
+  },
+  "Tooltip": {
+    "Mode": {
+      "Error": "Fehler",
+      "Default": "Tooltip"
+    }
+  },
+  "Validators": {
+    "Autocomplete": {
+      "Message": "Bitte wählen Sie einen Wert aus der Liste",
+      "SelectionWindowMessage": "Bitte wählen Sie den Wert aus der Liste oder suchen Sie im Suchfenster"
+    },
+    "Required": {
+      "Message": "Wert eingeben"
+    },
+    "MaxLength": {
+      "Message": "Maximale Textlänge überschritten ({{actualLength}}/{{maxLength}})"
+    },
+    "MinLength": {
+      "Message": "Minimale Textlänge nicht erreicht ({{actualLength}}/{{minLength}})"
+    },
+    "DatetimePickerSyntax": {
+      "Message": "Ungültiges Datums- und Zeitformat"
+    },
+    "DatePickerSyntax": {
+      "Message": "Ungültiges Datumsformat"
+    },
+    "TimePickerSyntax": {
+      "Message": "Ungültiges Zeitformat"
+    },
+    "RegExp": {
+      "Message": "Ungültiges Wertformat"
+    },
+    "SchemaNamePrefix": {
+      "NoSchemaNamePrefixMessage": "Code muss mit dem {{schemaNamePrefix}} Präfix beginnen.",
+      "OnlySchemaNamePrefixMessage": "Geben Sie mindestens ein weiteres Zeichen ein."
+    },
+    "SchemaNameAllowedSymbols": {
+      "Message": "Symbole verwenden: a-z, A-Z, 0-9, Unterstrich oder Bindestrich. Das erste Zeichen muss ein Buchstabe sein."
+    },
+    "UniqueCodeColumnValue": {
+      "Message": "The value '{{controlValue}}' already exists in the 'Code' column."
+    },
+    "PhoneNumber": {
+      "Message": "Invalid phone number"
+    }
+  },
+  "BaseViewModel": {
+    "DataSourceAttributeRemoved": "Spalte entfernt",
+    "ValidationErrorMessageSingleErrorField": "Felder: {0}. Fehler: {1}",
+    "ValidationErrorMessageSeveralErrorFields": "Felder: {0}. Fehler: {1}",
+    "RefreshModelDataConflict": "Creatio hat neue Daten für die aktuelle Seite. Um sie anzuzeigen, speichern oder löschen Sie Ihre Änderungen und aktualisieren Sie die Seite.",
+    "WarningModelsWithCircularDependencies": "Einige Modelle haben zirkuläre Abhängigkeiten und wurden nicht geladen",
+    "LoadingModelErrorMessage": "Fehler bei der Ausführung der Abfrage",
+    "ErrorMessageOnEmptyRelationColumn": "Cannot save the page. Populate the {{caption}} field or clear the data in the related fields to save to page."
+  },
+  "LoadDataRequest": {
+    "SuccessMessage": "Data has been refreshed"
+  },
+  "CopilotIntentDataSource": {
+    "DefaultValues": {
+      "Prompt": "Describe the user's goal clearly and concisely. Detail the steps needed to achieve the user's goal. Outline the expected result from the LLM. This should include any necessary context or information that the LLM needs to know.\n\n## General Rules\n1. You cannot create new objects without explicitly confirming with the user.\n2. Rule 2: ...\n3. ...\n\n## General Restrictions\n1. Avoid making assumptions about the user's intent; clarify requests when necessary.\n2. Restriction 2: ...\n3. ...\n\n## Requirements for Output\n1. The output must be less than 300 symbols and no more than 2-3 sentences.\n2. Requirement 2: ...\n3. ...\n\n## Process Flow\n1. Use current page context for read page data and fields. Based on that information ...\n2. Step 2: ...\n3. ..."
+    }
+  },
+  "Dialog": {
+    "ProcessSchemaSavedWithValidationError": "Das Prozessschema wurde erfolgreich gespeichert, aber Validierungsfehler verhindern, dass es ausgeführt wird."
+  }
+}

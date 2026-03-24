@@ -1,0 +1,15 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtCaseService/Schemas/Activity/Activity.cs" Condition="Exists('$(PkgPath)/CrtCaseService/Schemas/Activity/Activity.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseService/Schemas/Call/Call.cs" Condition="Exists('$(PkgPath)/CrtCaseService/Schemas/Call/Call.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseService/Schemas/CallFolder/CallFolder.cs" Condition="Exists('$(PkgPath)/CrtCaseService/Schemas/CallFolder/CallFolder.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseService/Schemas/CaseNotificationRule/CaseNotificationRule.cs" Condition="Exists('$(PkgPath)/CrtCaseService/Schemas/CaseNotificationRule/CaseNotificationRule.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseService/Schemas/CasePriority/CasePriority.cs" Condition="Exists('$(PkgPath)/CrtCaseService/Schemas/CasePriority/CasePriority.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseService/Schemas/DelayedNotification/DelayedNotification.cs" Condition="Exists('$(PkgPath)/CrtCaseService/Schemas/DelayedNotification/DelayedNotification.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseService/Schemas/MailboxSyncSettings/MailboxSyncSettings.cs" Condition="Exists('$(PkgPath)/CrtCaseService/Schemas/MailboxSyncSettings/MailboxSyncSettings.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseService/Schemas/NotificationRuleUsage/NotificationRuleUsage.cs" Condition="Exists('$(PkgPath)/CrtCaseService/Schemas/NotificationRuleUsage/NotificationRuleUsage.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseService/Schemas/OmniChat/OmniChat.cs" Condition="Exists('$(PkgPath)/CrtCaseService/Schemas/OmniChat/OmniChat.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseService/Schemas/PriorityInSupportLevel/PriorityInSupportLevel.cs" Condition="Exists('$(PkgPath)/CrtCaseService/Schemas/PriorityInSupportLevel/PriorityInSupportLevel.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseService/Schemas/SupportLevel/SupportLevel.cs" Condition="Exists('$(PkgPath)/CrtCaseService/Schemas/SupportLevel/SupportLevel.cs')" />
+	</ItemGroup>
+</Project>

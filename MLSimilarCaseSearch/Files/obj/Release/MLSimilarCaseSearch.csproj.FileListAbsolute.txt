@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\Bin\MLSimilarCaseSearch.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\Bin\MLSimilarCaseSearch.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.pdb

@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\Bin\CrtBulkEmailCopilot.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\Bin\CrtBulkEmailCopilot.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.pdb

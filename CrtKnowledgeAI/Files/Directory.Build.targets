@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/CrtKnowledgeAI/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/CrtKnowledgeAI/Data/**" />
+		<Compile Remove="$(PkgPath)/CrtKnowledgeAI/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/CrtKnowledgeAI/Schemas\**" />
+		<Compile Remove="$(PkgPath)/CrtKnowledgeAI/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtKnowledgeAI/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtKnowledgeAI/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtKnowledgeAI/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtKnowledgeAI/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtKnowledgeAI/Resources/**" />
+		<None Remove="$(PkgPath)/CrtKnowledgeAI/Assemblies/**" />
+		<None Remove="$(PkgPath)/CrtKnowledgeAI/Data/**" />
+		<None Remove="$(PkgPath)/CrtKnowledgeAI/SqlScripts/**" />
+		<None Remove="$(PkgPath)/CrtKnowledgeAI/Schemas/**" />
+		<None Remove="$(PkgPath)/CrtKnowledgeAI/Resources/**" />
+  </ItemGroup>
+</Project>

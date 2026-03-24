@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseManagmentObject\Files\Bin\CrtCaseManagmentObject.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseManagmentObject\Files\Bin\CrtCaseManagmentObject.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseManagmentObject\Files\obj\Release\CrtCaseManagmentObject.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseManagmentObject\Files\obj\Release\CrtCaseManagmentObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseManagmentObject\Files\obj\Release\CrtCaseManagmentObject.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseManagmentObject\Files\obj\Release\CrtCaseManagmentObject.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseManagmentObject\Files\obj\Release\CrtCaseManagmentObject.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseManagmentObject\Files\obj\Release\CrtCaseManagmentObject.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseManagmentObject\Files\obj\Release\CrtCaseManagmentObject.pdb

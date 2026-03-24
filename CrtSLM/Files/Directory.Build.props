@@ -1,0 +1,18 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtSLM/Schemas/Case/Case.cs" Condition="Exists('$(PkgPath)/CrtSLM/Schemas/Case/Case.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLM/Schemas/CaseLifecycle/CaseLifecycle.cs" Condition="Exists('$(PkgPath)/CrtSLM/Schemas/CaseLifecycle/CaseLifecycle.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLM/Schemas/MailboxForIncidentRegistration/MailboxForIncidentRegistration.cs" Condition="Exists('$(PkgPath)/CrtSLM/Schemas/MailboxForIncidentRegistration/MailboxForIncidentRegistration.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLM/Schemas/MailBoxType/MailBoxType.cs" Condition="Exists('$(PkgPath)/CrtSLM/Schemas/MailBoxType/MailBoxType.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLM/Schemas/ServiceCategory/ServiceCategory.cs" Condition="Exists('$(PkgPath)/CrtSLM/Schemas/ServiceCategory/ServiceCategory.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLM/Schemas/ServiceItem/ServiceItem.cs" Condition="Exists('$(PkgPath)/CrtSLM/Schemas/ServiceItem/ServiceItem.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLM/Schemas/ServiceItemFile/ServiceItemFile.cs" Condition="Exists('$(PkgPath)/CrtSLM/Schemas/ServiceItemFile/ServiceItemFile.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLM/Schemas/ServiceItemFolder/ServiceItemFolder.cs" Condition="Exists('$(PkgPath)/CrtSLM/Schemas/ServiceItemFolder/ServiceItemFolder.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLM/Schemas/ServiceItemInFolder/ServiceItemInFolder.cs" Condition="Exists('$(PkgPath)/CrtSLM/Schemas/ServiceItemInFolder/ServiceItemInFolder.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLM/Schemas/ServiceItemInTag/ServiceItemInTag.cs" Condition="Exists('$(PkgPath)/CrtSLM/Schemas/ServiceItemInTag/ServiceItemInTag.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLM/Schemas/ServiceItemTag/ServiceItemTag.cs" Condition="Exists('$(PkgPath)/CrtSLM/Schemas/ServiceItemTag/ServiceItemTag.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLM/Schemas/ServiceStatus/ServiceStatus.cs" Condition="Exists('$(PkgPath)/CrtSLM/Schemas/ServiceStatus/ServiceStatus.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLM/Schemas/ServiceType/ServiceType.cs" Condition="Exists('$(PkgPath)/CrtSLM/Schemas/ServiceType/ServiceType.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLM/Schemas/TermDayType/TermDayType.cs" Condition="Exists('$(PkgPath)/CrtSLM/Schemas/TermDayType/TermDayType.cs')" />
+	</ItemGroup>
+</Project>

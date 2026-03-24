@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGoogleAnalytics\Files\Bin\CrtGoogleAnalytics.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGoogleAnalytics\Files\Bin\CrtGoogleAnalytics.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGoogleAnalytics\Files\obj\Release\CrtGoogleAnalytics.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGoogleAnalytics\Files\obj\Release\CrtGoogleAnalytics.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGoogleAnalytics\Files\obj\Release\CrtGoogleAnalytics.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGoogleAnalytics\Files\obj\Release\CrtGoogleAnalytics.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGoogleAnalytics\Files\obj\Release\CrtGoogleAnalytics.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGoogleAnalytics\Files\obj\Release\CrtGoogleAnalytics.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGoogleAnalytics\Files\obj\Release\CrtGoogleAnalytics.pdb

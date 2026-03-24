@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSLMITILService7x\Files\Bin\CrtSLMITILService7x.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSLMITILService7x\Files\Bin\CrtSLMITILService7x.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSLMITILService7x\Files\obj\Release\CrtSLMITILService7x.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSLMITILService7x\Files\obj\Release\CrtSLMITILService7x.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSLMITILService7x\Files\obj\Release\CrtSLMITILService7x.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSLMITILService7x\Files\obj\Release\CrtSLMITILService7x.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSLMITILService7x\Files\obj\Release\CrtSLMITILService7x.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSLMITILService7x\Files\obj\Release\CrtSLMITILService7x.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSLMITILService7x\Files\obj\Release\CrtSLMITILService7x.pdb

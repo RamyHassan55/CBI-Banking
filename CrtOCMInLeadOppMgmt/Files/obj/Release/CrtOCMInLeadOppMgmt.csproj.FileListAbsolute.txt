@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOCMInLeadOppMgmt\Files\Bin\CrtOCMInLeadOppMgmt.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOCMInLeadOppMgmt\Files\Bin\CrtOCMInLeadOppMgmt.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOCMInLeadOppMgmt\Files\obj\Release\CrtOCMInLeadOppMgmt.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOCMInLeadOppMgmt\Files\obj\Release\CrtOCMInLeadOppMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOCMInLeadOppMgmt\Files\obj\Release\CrtOCMInLeadOppMgmt.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOCMInLeadOppMgmt\Files\obj\Release\CrtOCMInLeadOppMgmt.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOCMInLeadOppMgmt\Files\obj\Release\CrtOCMInLeadOppMgmt.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOCMInLeadOppMgmt\Files\obj\Release\CrtOCMInLeadOppMgmt.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOCMInLeadOppMgmt\Files\obj\Release\CrtOCMInLeadOppMgmt.pdb

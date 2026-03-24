@@ -1,0 +1,6 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/MLSimilarCaseSearch/Schemas/MLPredictionQuality/MLPredictionQuality.cs" Condition="Exists('$(PkgPath)/MLSimilarCaseSearch/Schemas/MLPredictionQuality/MLPredictionQuality.cs')" />
+		<Compile Include="$(PkgPath)/MLSimilarCaseSearch/Schemas/MLSimilarCase/MLSimilarCase.cs" Condition="Exists('$(PkgPath)/MLSimilarCaseSearch/Schemas/MLSimilarCase/MLSimilarCase.cs')" />
+	</ItemGroup>
+</Project>

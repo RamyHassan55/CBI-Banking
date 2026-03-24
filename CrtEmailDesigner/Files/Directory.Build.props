@@ -1,0 +1,6 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtEmailDesigner/Schemas/BfEmailTemplate/BfEmailTemplate.cs" Condition="Exists('$(PkgPath)/CrtEmailDesigner/Schemas/BfEmailTemplate/BfEmailTemplate.cs')" />
+		<Compile Include="$(PkgPath)/CrtEmailDesigner/Schemas/CombinedEmailTemplateMacros/CombinedEmailTemplateMacros.cs" Condition="Exists('$(PkgPath)/CrtEmailDesigner/Schemas/CombinedEmailTemplateMacros/CombinedEmailTemplateMacros.cs')" />
+	</ItemGroup>
+</Project>

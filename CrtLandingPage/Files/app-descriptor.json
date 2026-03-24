@@ -1,0 +1,47 @@
+{
+  "Code": "CrtLandingPage",
+  "Color": "#4F43C2",
+  "DependsOn": [],
+  "Description": "",
+  "HelpLink": "",
+  "Icon": "PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE3Ljg3NzkgMTIuNDQzNkMxNy45MjQ4IDEyLjg2NTQgMTcuNTU4NyAxMy4xOTQ3IDE3LjEzNDggMTMuMTc0N0MxNi43MTA5IDEzLjE1NDggMTYuMzkyNSAxMi43OTEgMTYuMzE1IDEyLjM3MzhDMTYuMjEzMiAxMS44MjU1IDE1Ljk3NDcgMTEuMzA3NCAxNS42MTYyIDEwLjg2OTdDMTUuMjU3NiAxMC40MzIxIDE0Ljc5NjUgMTAuMDk2MyAxNC4yNzkxIDkuODg4NjdDMTMuODg1MiA5LjczMDY0IDEzLjU5MTIgOS4zNDY4MSAxMy42NTUgOC45MjcyOEMxMy43MTg5IDguNTA3NzYgMTQuMTEzOCA4LjIxMzYyIDE0LjUxOCA4LjM0MjYxQzE1LjQwOTIgOC42MjY5MyAxNi4yMDUzIDkuMTYzOTEgMTYuODA0OSA5Ljg5NTg2QzE3LjQwNDYgMTAuNjI3OCAxNy43NzQ0IDExLjUxNCAxNy44Nzc5IDEyLjQ0MzZaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTIxLjYzOTIgMTMuMDY5NkMyMS42MzkyIDE1LjAxNzggMjAuOTg5MSAxNi44MTQxIDE5Ljg5NDEgMTguMjUzNUwyNy4xNjAyIDI1LjUxOTdDMjcuNjEzMyAyNS45NzI3IDI3LjYxMzMgMjYuNzA3MiAyNy4xNjAyIDI3LjE2MDJDMjYuNzA3MiAyNy42MTMzIDI1Ljk3MjcgMjcuNjEzMyAyNS41MTk3IDI3LjE2MDJMMTguMjUzNSAxOS44OTQxQzE2LjgxNDEgMjAuOTg5MSAxNS4wMTc4IDIxLjYzOTIgMTMuMDY5NiAyMS42MzkyQzguMzM2NzUgMjEuNjM5MiA0LjUgMTcuODAyNSA0LjUgMTMuMDY5NkM0LjUgOC4zMzY3NSA4LjMzNjc1IDQuNSAxMy4wNjk2IDQuNUMxNy44MDI1IDQuNSAyMS42MzkyIDguMzM2NzUgMjEuNjM5MiAxMy4wNjk2Wk02LjgyMDEyIDEzLjA2OTZDNi44MjAxMiA5LjYxODExIDkuNjE4MTEgNi44MjAxMiAxMy4wNjk2IDYuODIwMTJDMTYuNTIxMSA2LjgyMDEyIDE5LjMxOTEgOS42MTgxMSAxOS4zMTkxIDEzLjA2OTZDMTkuMzE5MSAxNC43NDc2IDE4LjY1NzggMTYuMjcxMiAxNy41ODE1IDE3LjM5MzhDMTcuNTQ3MiAxNy40MjExIDE3LjUxNDEgMTcuNDUwNiAxNy40ODI0IDE3LjQ4MjRDMTcuNDUwNiAxNy41MTQxIDE3LjQyMTEgMTcuNTQ3MiAxNy4zOTM4IDE3LjU4MTVDMTYuMjcxMiAxOC42NTc4IDE0Ljc0NzYgMTkuMzE5MSAxMy4wNjk2IDE5LjMxOTFDOS42MTgxMSAxOS4zMTkxIDYuODIwMTIgMTYuNTIxMSA2LjgyMDEyIDEzLjA2OTZaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K",
+  "IconName": "icon_145.svg",
+  "IsHidden": true,
+  "Maintainer": "Creatio",
+  "MarketplaceLink": "",
+  "Name": "Landing page designer",
+  "OrderLink": "",
+  "Packages": [
+    {
+      "Name": "CrtBfUtilities",
+      "UId": "81a1f571-2ba6-fea5-5b08-ef0362a4ec97"
+    },
+    {
+      "Name": "CrtContentDesigner",
+      "UId": "c870b4e8-b26c-4776-b695-288ade169344"
+    },
+    {
+      "Name": "CrtHTMLPageDesigner",
+      "UId": "5ad721a8-8d95-4981-916e-b282ca8ee5a9"
+    },
+    {
+      "Name": "CrtLandingPage",
+      "UId": "f30842e6-3387-46d9-a403-7fdddd3f1084"
+    },
+    {
+      "Name": "CrtLandingPageAnalytics",
+      "UId": "b4e3a361-3e83-4b4b-2500-406cb82e877f"
+    },
+    {
+      "Name": "CrtLandingPageInEngagementToolsApp",
+      "UId": "73049d2d-1942-8f45-628b-1afe0700c649"
+    },
+    {
+      "Name": "CrtLeadGenLandingPage",
+      "UId": "1068568f-859b-b832-1332-368cfd23aab3"
+    }
+  ],
+  "RequiredPlatformVersion": "",
+  "SupportEmail": "",
+  "Version": "1.1.107"
+}

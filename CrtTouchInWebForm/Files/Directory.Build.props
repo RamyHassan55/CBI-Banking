@@ -1,0 +1,5 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtTouchInWebForm/Schemas/FormSubmit/FormSubmit.cs" Condition="Exists('$(PkgPath)/CrtTouchInWebForm/Schemas/FormSubmit/FormSubmit.cs')" />
+	</ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoiceOrder\Files\Bin\CrtInvoiceOrder.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoiceOrder\Files\Bin\CrtInvoiceOrder.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoiceOrder\Files\obj\Release\CrtInvoiceOrder.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoiceOrder\Files\obj\Release\CrtInvoiceOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoiceOrder\Files\obj\Release\CrtInvoiceOrder.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoiceOrder\Files\obj\Release\CrtInvoiceOrder.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoiceOrder\Files\obj\Release\CrtInvoiceOrder.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoiceOrder\Files\obj\Release\CrtInvoiceOrder.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoiceOrder\Files\obj\Release\CrtInvoiceOrder.pdb

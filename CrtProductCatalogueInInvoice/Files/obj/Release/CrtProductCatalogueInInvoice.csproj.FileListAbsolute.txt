@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInInvoice\Files\Bin\CrtProductCatalogueInInvoice.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInInvoice\Files\Bin\CrtProductCatalogueInInvoice.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInInvoice\Files\obj\Release\CrtProductCatalogueInInvoice.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInInvoice\Files\obj\Release\CrtProductCatalogueInInvoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInInvoice\Files\obj\Release\CrtProductCatalogueInInvoice.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInInvoice\Files\obj\Release\CrtProductCatalogueInInvoice.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInInvoice\Files\obj\Release\CrtProductCatalogueInInvoice.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInInvoice\Files\obj\Release\CrtProductCatalogueInInvoice.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInInvoice\Files\obj\Release\CrtProductCatalogueInInvoice.pdb

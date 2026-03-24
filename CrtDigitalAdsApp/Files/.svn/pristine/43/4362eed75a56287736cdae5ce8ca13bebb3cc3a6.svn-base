@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/CrtDigitalAdsApp/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/CrtDigitalAdsApp/Data/**" />
+		<Compile Remove="$(PkgPath)/CrtDigitalAdsApp/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/CrtDigitalAdsApp/Schemas\**" />
+		<Compile Remove="$(PkgPath)/CrtDigitalAdsApp/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtDigitalAdsApp/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtDigitalAdsApp/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtDigitalAdsApp/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtDigitalAdsApp/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtDigitalAdsApp/Resources/**" />
+		<None Remove="$(PkgPath)/CrtDigitalAdsApp/Assemblies/**" />
+		<None Remove="$(PkgPath)/CrtDigitalAdsApp/Data/**" />
+		<None Remove="$(PkgPath)/CrtDigitalAdsApp/SqlScripts/**" />
+		<None Remove="$(PkgPath)/CrtDigitalAdsApp/Schemas/**" />
+		<None Remove="$(PkgPath)/CrtDigitalAdsApp/Resources/**" />
+  </ItemGroup>
+</Project>

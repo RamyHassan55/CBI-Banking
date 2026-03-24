@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractCopilot\Files\Bin\CrtOrderContractCopilot.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractCopilot\Files\Bin\CrtOrderContractCopilot.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractCopilot\Files\obj\Release\CrtOrderContractCopilot.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractCopilot\Files\obj\Release\CrtOrderContractCopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractCopilot\Files\obj\Release\CrtOrderContractCopilot.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractCopilot\Files\obj\Release\CrtOrderContractCopilot.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractCopilot\Files\obj\Release\CrtOrderContractCopilot.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractCopilot\Files\obj\Release\CrtOrderContractCopilot.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractCopilot\Files\obj\Release\CrtOrderContractCopilot.pdb

@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/CrtCampaignInC360/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/CrtCampaignInC360/Data/**" />
+		<Compile Remove="$(PkgPath)/CrtCampaignInC360/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/CrtCampaignInC360/Schemas\**" />
+		<Compile Remove="$(PkgPath)/CrtCampaignInC360/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtCampaignInC360/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtCampaignInC360/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtCampaignInC360/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtCampaignInC360/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtCampaignInC360/Resources/**" />
+		<None Remove="$(PkgPath)/CrtCampaignInC360/Assemblies/**" />
+		<None Remove="$(PkgPath)/CrtCampaignInC360/Data/**" />
+		<None Remove="$(PkgPath)/CrtCampaignInC360/SqlScripts/**" />
+		<None Remove="$(PkgPath)/CrtCampaignInC360/Schemas/**" />
+		<None Remove="$(PkgPath)/CrtCampaignInC360/Resources/**" />
+  </ItemGroup>
+</Project>

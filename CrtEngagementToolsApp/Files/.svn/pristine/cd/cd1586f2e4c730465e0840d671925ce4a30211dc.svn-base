@@ -1,0 +1,101 @@
+﻿{
+    "Name":  "Lead Generation",
+    "Description":  "",
+    "Maintainer":  "Creatio",
+    "Icon":  "PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yNC4yOSA2LjQxMzU4QzI0LjI5IDUuNjMyODggMjMuNjU3MiA1IDIyLjg3NjUgNUMyMi4wOTU4IDUgMjEuNDYyOSA1LjYzMjg4IDIxLjQ2MjkgNi40MTM1OFYxMC41MzY1SDI1LjU4NThDMjYuMzY2NSAxMC41MzY1IDI2Ljk5OTQgOS45MDM2NCAyNi45OTk0IDkuMTIyOTVDMjYuOTk5NCA4LjM0MjI1IDI2LjM2NjUgNy43MDkzNyAyNS41ODU4IDcuNzA5MzdIMjQuMjlWNi40MTM1OFpNMTguODAyOSA5LjA1MzcyQzE5LjU4MzYgOS4wNTM3MiAyMC4yMTY1IDkuNjg2NiAyMC4yMTY1IDEwLjQ2NzNWMTEuNzcxSDIxLjUyMDJDMjIuMzAwOSAxMS43NzEgMjIuOTMzOCAxMi40MDM5IDIyLjkzMzggMTMuMTg0NkMyMi45MzM4IDEzLjk2NTMgMjIuMzAwOSAxNC41OTgyIDIxLjUyMDIgMTQuNTk4MkgxOS4zODc3TDE2LjM2MDQgMTcuNjI1NUMxNS44MDg0IDE4LjE3NzUgMTQuOTEzNCAxOC4xNzc1IDE0LjM2MTMgMTcuNjI1NUMxMy44MDkzIDE3LjA3MzQgMTMuODA5MyAxNi4xNzg0IDE0LjM2MTMgMTUuNjI2NEwxNy4zODkzIDEyLjU5ODRWMTAuNDY3M0MxNy4zODkzIDkuNjg2NiAxOC4wMjIyIDkuMDUzNzIgMTguODAyOSA5LjA1MzcyWk0xMS4wMjk2IDEwLjk3NThDMTIuMjE0NiAxMC4xODQgMTMuNjA3NyA5Ljc2MTQ0IDE1LjAzMjkgOS43NjE0NEMxNS44MTM2IDkuNzYxNDQgMTYuNDQ2NCA5LjEyODU2IDE2LjQ0NjQgOC4zNDc4NkMxNi40NDY0IDcuNTY3MTYgMTUuODEzNiA2LjkzNDI4IDE1LjAzMjkgNi45MzQyOEMxMy4wNDg2IDYuOTM0MjggMTEuMTA4OCA3LjUyMjcgOS40NTg5MSA4LjYyNTEyQzcuODA5MDEgOS43Mjc1NSA2LjUyMzA3IDExLjI5NDUgNS43NjM3MSAxMy4xMjc3QzUuMDA0MzUgMTQuOTYxIDQuODA1NjYgMTYuOTc4MyA1LjE5Mjc4IDE4LjkyNDVDNS41Nzk5IDIwLjg3MDYgNi41MzU0NCAyMi42NTgzIDcuOTM4NTYgMjQuMDYxNEM5LjM0MTY4IDI1LjQ2NDYgMTEuMTI5NCAyNi40MjAxIDEzLjA3NTYgMjYuODA3MkMxNC45MjMyIDI3LjE3NDcgMTYuODM0OSAyNy4wMTQzIDE4LjU5MjUgMjYuMzQ3M0wxOC41NDM0IDI2LjI4ODdDMTguMzEyNSAyNi4wMTI4IDE4LjA2MzIgMjUuNzExOSAxNy44MzQ5IDI1LjM5MTVDMTcuNDg0NiAyNC45MDAzIDE3LjMzNzggMjQuMzYxMyAxNy4zMzYxIDIzLjc5NDhDMTYuMTQ0NyAyNC4xOTY3IDE0Ljg2NTggMjQuMjgwOCAxMy42MjcxIDI0LjAzNDRDMTIuMjI5MyAyMy43NTY0IDEwLjk0NTQgMjMuMDcwMSA5LjkzNzY2IDIyLjA2MjNDOC45Mjk5MyAyMS4wNTQ2IDguMjQzNjUgMTkuNzcwNyA3Ljk2NTYyIDE4LjM3MjlDNy42ODc1OCAxNi45NzUxIDcuODMwMjggMTUuNTI2MyA4LjM3NTY2IDE0LjIwOTZDOC45MjEwNCAxMi44OTMgOS44NDQ2MiAxMS43Njc2IDExLjAyOTYgMTAuOTc1OFpNMjUuMDY1NyAxNi45NjcxQzI1LjA2NTcgMTcuNTMzOSAyNS4wMTc3IDE4LjA5NyAyNC45MjM1IDE4LjY1MDdDMjQuODQ3NyAxOC43MDA3IDI0Ljc3MDcgMTguNzUxOCAyNC42OTI0IDE4LjgwNEMyNC40Mjk5IDE4Ljk3OTEgMjQuMDc3NCAxOS4wNTk4IDIzLjU1NDggMTkuMDc2MkMyMy4yOTU5IDE5LjA4NDMgMjMuMDIzNyAxOS4wNzY0IDIyLjcxNzEgMTkuMDY3NEwyMi43MDkxIDE5LjA2NzJIMjIuNzA5MUMyMi40NjQ5IDE5LjA1OTkgMjIuMTk5NCAxOS4wNTIxIDIxLjkyOTQgMTkuMDU1MUMyMi4xMzMzIDE4LjM4MTcgMjIuMjM4NiAxNy42Nzg0IDIyLjIzODYgMTYuOTY3MUMyMi4yMzg2IDE2LjE4NjQgMjIuODcxNCAxNS41NTM2IDIzLjY1MjEgMTUuNTUzNkMyNC40MzI4IDE1LjU1MzYgMjUuMDY1NyAxNi4xODY0IDI1LjA2NTcgMTYuOTY3MVpNMjAuMDg4MSAxOC42NDE1QzE5Ljk0MzkgMTkuMDc2MiAxOS43NDM3IDE5LjQ5MjcgMTkuNDkwNyAxOS44OEMxOC45NDczIDIwLjIzNjggMTguMzczOCAyMC43MzAxIDE3Ljk5ODEgMjEuMzkyQzE3LjcwNTcgMjEuNTg4MyAxNy4zOTMzIDIxLjc1NjIgMTcuMDY0NyAyMS44OTIzQzE2LjA4OTUgMjIuMjk2MiAxNS4wMTY0IDIyLjQwMTkgMTMuOTgxMSAyMi4xOTZDMTIuOTQ1OCAyMS45OTAxIDExLjk5NDggMjEuNDgxOCAxMS4yNDg0IDIwLjczNTRDMTAuNTAyIDE5Ljk4OSA5Ljk5Mzc0IDE5LjAzOCA5Ljc4NzgxIDE4LjAwMjdDOS41ODE4OCAxNi45Njc0IDkuNjg3NTcgMTUuODk0MyAxMC4wOTE1IDE0LjkxOTFDMTAuNDk1NSAxMy45NDM5IDExLjE3OTUgMTMuMTEwMyAxMi4wNTcyIDEyLjUyMzlDMTIuNDQ4OSAxMi4yNjIyIDEyLjg3MTMgMTIuMDU0OSAxMy4zMTI5IDExLjkwNTZDMTQuMDUyNCAxMS42NTU2IDE0Ljg1NDcgMTIuMDUyNCAxNS4xMDQ3IDEyLjc5MkMxNS4zNTQ4IDEzLjUzMTUgMTQuOTU4IDE0LjMzMzggMTQuMjE4NCAxNC41ODM4QzE0LjAxMDcgMTQuNjU0IDEzLjgxMjEgMTQuNzUxNSAxMy42Mjc5IDE0Ljg3NDZDMTMuMjE1MSAxNS4xNTA0IDEyLjg5MzQgMTUuNTQyNCAxMi43MDM1IDE2LjAwMUMxMi41MTM1IDE2LjQ1OTYgMTIuNDYzOCAxNi45NjQzIDEyLjU2MDYgMTcuNDUxMkMxMi42NTc1IDE3LjkzOCAxMi44OTY1IDE4LjM4NTMgMTMuMjQ3NiAxOC43MzYzQzEzLjU5ODYgMTkuMDg3MyAxNC4wNDU4IDE5LjMyNjMgMTQuNTMyNyAxOS40MjMyQzE1LjAxOTUgMTkuNTIgMTUuNTI0MiAxOS40NzAzIDE1Ljk4MjggMTkuMjgwM0MxNi40NDE0IDE5LjA5MDQgMTYuODMzNCAxOC43Njg3IDE3LjEwOTIgMTguMzU1OUMxNy4yMzUgMTguMTY3NiAxNy4zMzQxIDE3Ljk2NDIgMTcuNDA0NiAxNy43NTE2QzE3LjY1MDQgMTcuMDEwNiAxOC40NTAzIDE2LjYwOTEgMTkuMTkxMyAxNi44NTQ4QzE5LjkzMjMgMTcuMTAwNSAyMC4zMzM4IDE3LjkwMDUgMjAuMDg4MSAxOC42NDE1Wk0yNy44MDkyIDE5LjAwODZDMjguMDA3MyAxOC45ODMyIDI4LjIwODYgMTkuMDE0NCAyOC4zODk2IDE5LjA5ODdDMjguNTcwNyAxOS4xODI5IDI4LjcyNDEgMTkuMzE2OCAyOC44MzIyIDE5LjQ4NDdDMjguOTQwMiAxOS42NTI2IDI4Ljk5ODQgMTkuODQ3NyAyOSAyMC4wNDczTDI5IDI2LjcyTDI5IDI2LjcyNTdDMjguOTk5NCAyNi43OTA2IDI4Ljk5MjkgMjYuODU1IDI4Ljk4MDcgMjYuOTE4MUMyOC45NTUzIDI3LjA0OTMgMjguOTA1MSAyNy4xNzUgMjguODMyMiAyNy4yODgzQzI4Ljc4NzQgMjcuMzU3OCAyOC43MzQ5IDI3LjQyMTUgMjguNjc1OSAyNy40NzgzQzI4LjU5MjMgMjcuNTU4NiAyOC40OTU3IDI3LjYyNSAyOC4zODk2IDI3LjY3NDNDMjguMzE2NSAyNy43MDg0IDI4LjI0MDEgMjcuNzMzOCAyOC4xNjE5IDI3Ljc1MDNDMjguMDQ2NSAyNy43NzQ2IDI3LjkyNzMgMjcuNzc5NiAyNy44MDkyIDI3Ljc2NDRDMjcuNzMzNiAyNy43NTQ3IDI3LjY1OTUgMjcuNzM2OSAyNy41ODg0IDI3LjcxMTRDMjcuNDczMiAyNy42NzAzIDI3LjM2NTUgMjcuNjA5MyAyNy4yNzA0IDI3LjUzMDdMMjcuMjY3MSAyNy41Mjc5QzI3LjE3ODkgMjcuNDU0IDI3LjA5MDYgMjcuMzgzMyAyNy4wMDIzIDI3LjMxNTdDMjYuMDYwOSAyNi41OTQ2IDI1LjEyNCAyNi4yMTkxIDI0LjQwNDQgMjYuMDIzNEMyNC4zMzM2IDI2LjAwNDIgMjQuMjY0OSAyNS45ODY3IDI0LjE5ODcgMjUuOTcwOFYyNy40NzgzTDI0LjE5MTggMjcuNjY3OUMyNC4xNzQxIDI3LjgyMTMgMjQuMTIyOCAyNy45Njk0IDI0LjA0MDkgMjguMTAxNUMyMy45Mzc2IDI4LjI2ODIgMjMuNzg5NyAyOC40MDI2IDIzLjYxMzkgMjguNDg5N0wyMi44MTYgMjguODg2NEMyMi42NzU1IDI4Ljk1NzUgMjIuNTIwOCAyOC45OTYzIDIyLjM2MzMgMjguOTk5N0MyMi4yMDM4IDI5LjAwMzIgMjIuMDQ1NSAyOC45NzA0IDIxLjkwMDYgMjguOTAzN0MyMS43NTU2IDI4LjgzNyAyMS42Mjc3IDI4LjczODMgMjEuNTI2NiAyOC42MTQ5QzIxLjQyNjYgMjguNDkyOSAyMS4zNTU0IDI4LjM1MDEgMjEuMzE4MiAyOC4xOTY5TDIwLjcwNzQgMjUuNzA0QzIwLjMzNDggMjUuNTg4MiAxOS45OTIxIDI1LjM4MzQgMTkuNzExMSAyNS4xMDI1QzE5LjI1NTggMjQuNjQ3NCAxOSAyNC4wMzAxIDE5IDIzLjM4NjVDMTkgMjIuNzQyOSAxOS4yNTU4IDIyLjEyNTYgMTkuNzExMSAyMS42NzA1QzIwLjE2NjUgMjEuMjE1NCAyMC43ODQgMjAuOTU5NyAyMS40Mjc5IDIwLjk1OTdIMjMuMTQwM0wyMy4xNTA5IDIwLjk1OTVDMjMuMTYyMiAyMC45NTkyIDIzLjE4MTcgMjAuOTU4NSAyMy4yMDkxIDIwLjk1NzFDMjMuMjQ2NCAyMC45NTUgMjMuMjk4MiAyMC45NTE1IDIzLjM2MjggMjAuOTQ1NEMyMy4zOTI3IDIwLjk0MjUgMjMuNDI1NSAyMC45MzkxIDIzLjQ2MDggMjAuOTM1QzIzLjY4NDMgMjAuOTA5MiAyNC4wMTA5IDIwLjg1NjUgMjQuNDA0NCAyMC43NDk2QzI1LjA4ODQgMjAuNTYzNiAyNS45Njg3IDIwLjIxNTEgMjYuODYyNiAxOS41NjE5QzI2Ljk5NzMgMTkuNDYzNCAyNy4xMzI0IDE5LjM1OCAyNy4yNjcxIDE5LjI0NTFMMjcuMjcwNSAxOS4yNDI0QzI3LjM0MDIgMTkuMTg0NyAyNy40MTY3IDE5LjEzNjUgMjcuNDk4IDE5LjA5ODdDMjcuNTk2IDE5LjA1MyAyNy43MDA5IDE5LjAyMjUgMjcuODA5MiAxOS4wMDg2Wk0yMi4yMDIyIDI1LjgxMzNIMjIuNzcyMkwyMi43NzIyIDI3LjMxNTdMMjIuNTkwNSAyNy40MDZMMjIuMjAyMiAyNS44MTMzWk0yMi43NzIyIDI0LjM4NzVIMjEuNDI3OUMyMS4xNjIzIDI0LjM4NzUgMjAuOTA3NiAyNC4yODIgMjAuNzE5OCAyNC4wOTQzQzIwLjUzMiAyMy45MDY2IDIwLjQyNjUgMjMuNjUyIDIwLjQyNjUgMjMuMzg2NUMyMC40MjY1IDIzLjEyMSAyMC41MzIgMjIuODY2NCAyMC43MTk4IDIyLjY3ODdDMjAuOTA3NiAyMi40OTEgMjEuMTYyMyAyMi4zODU1IDIxLjQyNzkgMjIuMzg1NUgyMi43NzIyVjI0LjM4NzVaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K",
+    "IconName":  "Engagement tools",
+    "Color":  "#00C853",
+    "RunType":  "section",
+    "RunParams":  {
+                      "SchemaName":  "SubmittedForms_ListPage"
+                  },
+    "Version":  "1.12.28",
+    "RequiredPlatformVersion":  "8.3.1",
+    "MarketplaceLink":  "",
+    "HelpLink":  "",
+    "OrderLink":  "",
+    "SupportEmail":  "",
+    "Code":  "CrtEngagementToolsApp",
+    "Packages":  [
+                     {
+                         "UId":  "e01946ab-f1ea-1571-5211-d6f48e66b35d",
+                         "Name":  "CrtContactToLeadInC360"
+                     },
+                     {
+                         "UId":  "cb733171-9867-1afe-c1af-c7457bcd8be0",
+                         "Name":  "CrtEngagementInC360"
+                     },
+                     {
+                         "UId":  "c5315c68-66d1-cd4d-7f67-995e1d2b4fa0",
+                         "Name":  "CrtEngagementInCampaign"
+                     },
+                     {
+                         "UId":  "191c8ea8-bbb5-7cbd-b0f6-f281f796baf2",
+                         "Name":  "CrtEngagementInCampaign7x"
+                     },
+                     {
+                         "UId":  "48617545-4f2a-8616-d3f7-e13e60d80dc3",
+                         "Name":  "CrtEngagementInCampaignBase"
+                     },
+                     {
+                         "UId":  "2729259f-af91-351a-882a-aaa5bdd53616",
+                         "Name":  "CrtEngagementToolsApp"
+                     },
+                     {
+                         "UId":  "3a290ac3-045c-e97f-7e5c-0875acb0ea6e",
+                         "Name":  "CrtGoogleAnalytics"
+                     },
+                     {
+                         "UId":  "51a0fc55-ce4f-a533-0340-b70a0c04b905",
+                         "Name":  "CrtLead"
+                     },
+                     {
+                         "UId":  "d30b5030-97e6-a570-93b7-4ad00696a8d9",
+                         "Name":  "CrtLeadGenerationCopilot"
+                     },
+                     {
+                         "UId":  "d7dfeac2-4a4b-c464-f0ef-7c3016fdab32",
+                         "Name":  "CrtLeadWebForm"
+                     },
+                     {
+                         "UId":  "c971e656-3ac5-c191-2e0a-2ca3189af108",
+                         "Name":  "CrtMarketingBase"
+                     },
+                     {
+                         "UId":  "a098811e-2305-05ca-3ad1-39a8207d0f15",
+                         "Name":  "CrtMarketingInC360"
+                     },
+                     {
+                         "UId":  "300d39e1-2f5d-7a4c-3b11-782b206e3e57",
+                         "Name":  "CrtMatomoConnector"
+                     },
+                     {
+                         "UId":  "47ae1ea6-e608-a3fd-44ac-18726f40438c",
+                         "Name":  "CrtMLLeadConversion"
+                     },
+                     {
+                         "UId":  "1e2cd89f-0168-8634-c0cf-136ad2f8d9fc",
+                         "Name":  "CrtSocialLeadGen"
+                     },
+                     {
+                         "UId":  "e7ebb62c-3c17-6f81-a467-8103566679ee",
+                         "Name":  "CrtTouchInWebForm"
+                     },
+                     {
+                         "UId":  "8ab6216e-2ead-415c-ced0-646049cca295",
+                         "Name":  "CrtTouchPoint"
+                     },
+                     {
+                         "UId":  "3c5755e6-19fe-aa4b-2b66-f042137159f0",
+                         "Name":  "CrtTouchPointInC360"
+                     },
+                     {
+                         "UId":  "0a3cf440-a7af-a37f-98e9-e16f919f572e",
+                         "Name":  "CrtTouchPointInLead"
+                     },
+                     {
+                         "UId":  "708b1c13-26c8-e77f-ec94-f3ac840ad588",
+                         "Name":  "CrtWebTrackingBase"
+                     }
+                 ]
+}

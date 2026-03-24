@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\Bin\CrtMLOpportunityScoring.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\Bin\CrtMLOpportunityScoring.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.pdb

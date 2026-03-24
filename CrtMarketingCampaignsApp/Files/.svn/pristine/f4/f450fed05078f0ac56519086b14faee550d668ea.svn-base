@@ -1,0 +1,54 @@
+﻿{
+    "Name":  "Marketing Campaigns",
+    "Description":  "",
+    "Maintainer":  "Creatio",
+    "Icon":  "PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yMy45Njk1IDYuNDEzNkMyNC4zMDczIDYuMzcwMjEgMjQuNjUwNSA2LjQyMzQ5IDI0Ljk1OTIgNi41NjcyNkMyNS4yNjggNi43MTEwMyAyNS41Mjk2IDYuOTM5MzkgMjUuNzEzOCA3LjIyNTg2QzI1Ljg5OCA3LjUxMjMyIDI1Ljk5NzIgNy44NDUxNSAyNS45OTk5IDguMTg1NzJMMjYgOC4xOTM2NUwyNiAyMy43NTE4TDI1Ljk5OTkgMjMuNzU5OEMyNS45OTcyIDI0LjEwMDMgMjUuODk4IDI0LjQzMzIgMjUuNzEzOCAyNC43MTk2QzI1LjUyOTYgMjUuMDA2MSAyNS4yNjggMjUuMjM0NCAyNC45NTkyIDI1LjM3ODJDMjQuNjUwNSAyNS41MjIgMjQuMzA3MyAyNS41NzUzIDIzLjk2OTUgMjUuNTMxOUMyMy42MzE3IDI1LjQ4ODUgMjMuMzEzMSAyNS4zNTAyIDIzLjA1MDcgMjUuMTMzMUwyMy4wNDYgMjUuMTI5MkMyMC41NTkxIDIzLjA0NTcgMTguMDI1MyAyMi4wMDYgMTYuMTE3MSAyMS40ODdDMTUuMjY0MiAyMS4yNTUgMTQuNTM4NSAyMS4xMjc3IDE0LjAwMTQgMjEuMDU3OVYyNC4zMzgxQzE0LjAwMzIgMjQuNjM3NiAxMy45Mjk5IDI0LjkzMjggMTMuNzg4MSAyNS4xOTY3QzEzLjY0NjQgMjUuNDYwNCAxMy40NDA5IDI1LjY4NDQgMTMuMTkwNCAyNS44NDgxTDEyLjA5NjMgMjYuNTc0MkwxMi4wOTQ5IDI2LjU3NTJDMTEuODU1MyAyNi43MzQ4IDExLjU4MSAyNi44MzQ3IDExLjI5NDggMjYuODY2NEMxMS4wMDgxIDI2Ljg5ODIgMTAuNzE4IDI2Ljg2MDcgMTAuNDQ4OCAyNi43NTdDMTAuMTc5NiAyNi42NTMzIDkuOTM5MjggMjYuNDg2NCA5Ljc0ODAyIDI2LjI3MDVDOS41NTY3NSAyNi4wNTQ2IDkuNDIwMTYgMjUuNzk1OCA5LjM0OTcyIDI1LjUxNjFMOS4zNDkxIDI1LjUxMzZMOC4yMDIzNyAyMC45MDkzQzcuMTcxOTggMjAuNzQyNyA2LjIxMjE4IDIwLjI1NjMgNS40NjQ2NyAxOS41MDg4QzQuNTI2ODYgMTguNTcwOSA0IDE3LjI5OSA0IDE1Ljk3MjdDNCAxNC42NDY1IDQuNTI2ODYgMTMuMzc0NSA1LjQ2NDY3IDEyLjQzNjdDNi40MDI0OCAxMS40OTg5IDcuNjc0NDIgMTAuOTcyMSA5LjAwMDY5IDEwLjk3MjFIMTIuOTk1MkwxMy4wMDAzIDEwLjk3MkwxMy4wMDMyIDEwLjk3MkMxMy4wMDkzIDEwLjk3MTkgMTMuMDIwNSAxMC45NzE3IDEzLjAzNjcgMTAuOTcxM0MxMy4wNjg5IDEwLjk3MDUgMTMuMTIwNyAxMC45Njg3IDEzLjE5MDggMTAuOTY0OUMxMy4zMzA5IDEwLjk1NzQgMTMuNTQzOCAxMC45NDE5IDEzLjgxODUgMTAuOTEwMUMxNC4zNjgyIDEwLjg0NjUgMTUuMTYzMSAxMC43MTc5IDE2LjExNzEgMTAuNDU4NUMxOC4wMjUyIDkuOTM5NDUgMjAuNTU5MSA4Ljg5OTc3IDIzLjA0NiA2LjgxNjNMMjMuMDUwNyA2LjgxMjQxQzIzLjMxMzEgNi41OTUyOCAyMy42MzE3IDYuNDU2OTkgMjMuOTY5NSA2LjQxMzZaTTExLjk5OTEgMTIuOTc0NEg5LjAwMDY5QzguMjA1NDcgMTIuOTc0NCA3LjQ0MjgyIDEzLjI5MDMgNi44ODA1MiAxMy44NTI2QzYuMzE4MjEgMTQuNDE0OSA2LjAwMjMxIDE1LjE3NzUgNi4wMDIzMSAxNS45NzI3QzYuMDAyMzEgMTYuNzY4IDYuMzE4MjEgMTcuNTMwNiA2Ljg4MDUyIDE4LjA5MjlDNy40MzgzNyAxOC42NTA4IDguMTkzNDEgMTguOTY2MSA4Ljk4MTgxIDE4Ljk3MTFDOC45OTU4MiAxOC45NzA4IDkuMDA5NzkgMTguOTcwOCA5LjAyMzcxIDE4Ljk3MTFIMTEuOTk5MVYxMi45NzQ0Wk0xMS45OTkxIDIwLjk3MzRIMTAuMjgxOEwxMS4yMjI2IDI0Ljc1MDlMMTEuOTk5MSAyNC4yMzU2VjIwLjk3MzRaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K",
+    "IconName":  "MarketingCampaign",
+    "Color":  "#0091EA",
+    "Version":  "1.12.1",
+    "RequiredPlatformVersion":  "8.1.2",
+    "MarketplaceLink":  "",
+    "HelpLink":  "",
+    "OrderLink":  "",
+    "SupportEmail":  "",
+    "Code":  "CrtMarketingCampaignsApp",
+    "IsHidden":  true,
+    "Packages":  [
+                     {
+                         "UId":  "4edcd275-5e69-630b-1b85-5c2bcb84d7c4",
+                         "Name":  "CrtCampaign"
+                     },
+                     {
+                         "UId":  "9fd0bb87-114e-ccd1-db16-3aca416966d9",
+                         "Name":  "CrtCampaignDesigner7x"
+                     },
+                     {
+                         "UId":  "c971e656-3ac5-c191-2e0a-2ca3189af108",
+                         "Name":  "CrtMarketingBase"
+                     },
+                     {
+                         "UId":  "CFB1A784-A7BE-1C59-2CE0-61005490FD0B",
+                         "Name":  "CrtMarketingBase7x"
+                     },
+                     {
+                         "UId":  "385110a0-9140-5ea5-186a-b82599cf664f",
+                         "Name":  "CrtCampaignUtils"
+                     },
+                     {
+                         "UId":  "a45704bf-95d0-bdbc-053f-26c2dbceb3f1",
+                         "Name":  "CrtCampaignElements"
+                     },
+                     {
+                         "UId":  "a098811e-2305-05ca-3ad1-39a8207d0f15",
+                         "Name":  "CrtMarketingInC360"
+                     },
+                     {
+                         "UId":  "ab43c9f3-8d3c-0d2d-3b57-35f135a10a74",
+                         "Name":  "CrtCampaignInC360"
+                     },
+                     {
+                         "UId":  "4a0f42e7-14ff-c7bf-9b4a-4535d149d6e1",
+                         "Name":  "CrtMarketingCampaignsApp"
+                     }
+                 ]
+}

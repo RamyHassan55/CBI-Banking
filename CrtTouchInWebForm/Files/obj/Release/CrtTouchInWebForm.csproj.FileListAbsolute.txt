@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchInWebForm\Files\Bin\CrtTouchInWebForm.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchInWebForm\Files\Bin\CrtTouchInWebForm.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchInWebForm\Files\obj\Release\CrtTouchInWebForm.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchInWebForm\Files\obj\Release\CrtTouchInWebForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchInWebForm\Files\obj\Release\CrtTouchInWebForm.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchInWebForm\Files\obj\Release\CrtTouchInWebForm.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchInWebForm\Files\obj\Release\CrtTouchInWebForm.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchInWebForm\Files\obj\Release\CrtTouchInWebForm.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchInWebForm\Files\obj\Release\CrtTouchInWebForm.pdb

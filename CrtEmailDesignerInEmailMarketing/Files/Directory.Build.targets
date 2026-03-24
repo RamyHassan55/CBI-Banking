@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/Data/**" />
+		<Compile Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/Schemas\**" />
+		<Compile Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/Resources/**" />
+		<None Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/Assemblies/**" />
+		<None Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/Data/**" />
+		<None Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/SqlScripts/**" />
+		<None Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/Schemas/**" />
+		<None Remove="$(PkgPath)/CrtEmailDesignerInEmailMarketing/Resources/**" />
+  </ItemGroup>
+</Project>

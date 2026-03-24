@@ -1,0 +1,17 @@
+C:\WebAppRoot\prykhodko_dev_m\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\Bin\CrtEngagementInC360.dll
+C:\WebAppRoot\prykhodko_dev_m\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\Bin\CrtEngagementInC360.pdb
+C:\WebAppRoot\prykhodko_dev_m\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.csprojAssemblyReference.cache
+C:\WebAppRoot\prykhodko_dev_m\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.AssemblyInfoInputs.cache
+C:\WebAppRoot\prykhodko_dev_m\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.AssemblyInfo.cs
+C:\WebAppRoot\prykhodko_dev_m\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.csproj.CoreCompileInputs.cache
+C:\WebAppRoot\prykhodko_dev_m\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.dll
+C:\WebAppRoot\prykhodko_dev_m\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\Bin\CrtEngagementInC360.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\Bin\CrtEngagementInC360.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.pdb

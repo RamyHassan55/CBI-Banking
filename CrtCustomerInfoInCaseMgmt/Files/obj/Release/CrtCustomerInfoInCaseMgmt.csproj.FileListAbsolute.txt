@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\Bin\CrtCustomerInfoInCaseMgmt.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\Bin\CrtCustomerInfoInCaseMgmt.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.pdb

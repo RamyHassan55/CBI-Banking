@@ -1,0 +1,192 @@
+﻿using Terrasoft.Core.Entities;
+
+namespace CrtDigitalAdsApp.VirtualQueryExecutor
+{
+	using System;
+	using System.Collections.Generic;
+	using System.Linq;
+	using Common.Logging;
+	using CrtDigitalAdsApp.Models.Responses;
+	using CrtDigitalAdsApp.Repositories;
+	using Terrasoft.Common;
+	using Terrasoft.Core;
+	using Terrasoft.Core.Entities.Factories;
+	using Terrasoft.Core.Factories;
+
+	/// <summary>
+	/// Implementation <see cref="IEntityQueryExecutor"/> for 'VirtualAdAccount' entity.
+	/// </summary>
+	[DefaultBinding(typeof(IEntityQueryExecutor), Name = "VirtualAdAccountQueryExecutor")]
+	public class VirtualAdAccountQueryExecutor : IEntityQueryExecutor
+	{
+
+		#region Fields: Private
+
+		private static readonly ILog Logger = LogManager.GetLogger("VirtualAdAccountQueryExecutor");
+		private IAdAccountRepository _adAccountRepository;
+		private readonly Guid _connectedConnectionStatusId = Guid.Parse("9f00f7c6-749b-442a-a794-02b17e81d9d4");
+
+		#endregion
+
+		#region Properties: Public
+
+		/// <summary>
+		/// Gets or sets <see cref="IAdAccountRepository"/>
+		/// </summary>
+		public IAdAccountRepository AdAccountRepository {
+			get =>
+				_adAccountRepository ?? ClassFactory.Get<IAdAccountRepository>(
+					new ConstructorArgument("userConnection", UserConnection.Current),
+					new ConstructorArgument("logger", Logger));
+			set => _adAccountRepository = value;
+		}
+
+		#endregion
+
+		#region Methods: Private
+
+		private static void ApplySorting(EntitySchemaQuery esq, EntityCollection entityCollection) {
+			var sortColumn = esq.GetSorting();
+			if (sortColumn != null && entityCollection.Count > 0) {
+				entityCollection.Order(sortColumn.Name, sortColumn.OrderDirection);
+			}
+		}
+
+		private IEnumerable<AdAccountResponse> FilterAdAccounts(IEnumerable<AdAccountResponse> accounts,
+			List<Guid> identifiers) {
+			return identifiers.IsNullOrEmpty()
+				? accounts
+				: accounts?.Where(x => identifiers.Contains(x.Id));
+		}
+
+		private string GetAccountName(AdAccountResponse adAccount, Dictionary<string, string> dbNames,
+			HashSet<string> dbAccountIds) {
+			if (!dbNames.TryGetValue(adAccount.PlatformAdAccountId, out var currentName)) {
+				return adAccount.Name;
+			}
+			if (adAccount.Name != currentName && dbAccountIds.Contains(adAccount.PlatformAdAccountId)) {
+				var formerLocalizableString = GetLocalizableString("CrtDigitalAdsAppConsts", "Former");
+				return $"{adAccount.Name} | {formerLocalizableString}: {currentName}";
+			}
+			return adAccount.Name;
+		}
+
+		private List<Entity> GetConnectedAdAccountsFromDb() {
+			return AdAccountRepository.GetAdAccounts()
+				.Where(x => x.GetTypedColumnValue<Guid>("ConnectionStatusId") == _connectedConnectionStatusId)
+				.ToList();
+		}
+
+		private List<Guid> GetFilterIdentifiers(EntitySchemaQuery esq) {
+			return esq.Filters.IsNotEmpty()
+				? GetIdentifiers(esq.Filters)
+				: new List<Guid>();
+		}
+
+		private List<Guid> GetIdentifiers(EntitySchemaQueryFilterCollection filters) {
+			var filterCollection = filters[0] is EntitySchemaQueryFilterCollection
+				? (EntitySchemaQueryFilterCollection)filters[0]
+				: filters;
+			var filter = filterCollection.Select(f => f as EntitySchemaQueryFilter)
+				.FirstOrDefault(f => f?.LeftExpression.Path == "Id");
+			if (filter != null) {
+				return filter.RightExpressions.Select(x => (Guid)x.ParameterValue).ToList();
+			}
+			return new List<Guid>();
+		}
+
+		private string GetLocalizableString(string className, string resourceName) {
+			var localizableString = $"LocalizableStrings.{resourceName}.Value";
+			string result = new LocalizableString(UserConnection.Current.ResourceStorage,
+				className, localizableString);
+			return result;
+		}
+
+		#endregion
+
+		#region Methods: Public
+
+		/// <summary>
+		/// Gets collection of VirtualAdAccount entities
+		/// </summary>
+		/// <param name="esq">Represents a query against an object's schema.</param>
+		/// <returns>Collection of VirtualAdAccount entities</returns>
+		public EntityCollection GetEntityCollection(EntitySchemaQuery esq) {
+			var identifiers = GetFilterIdentifiers(esq);
+			var adAccounts = UserConnection.Current.ApplicationCache["VirtualAdAccounts"] as List<AdAccountResponse>;
+			var selectedAdAccounts = FilterAdAccounts(adAccounts, identifiers);
+			var connectedAdAccountsFromDb = GetConnectedAdAccountsFromDb();
+			var dbAccountIdNameMap = connectedAdAccountsFromDb.ToDictionary(
+				x => x.GetTypedColumnValue<string>("AccountId"),
+				x => x.GetTypedColumnValue<string>("Name")
+			);
+			var dbAccountIds = dbAccountIdNameMap.Keys.ToHashSet();
+			var factory = ClassFactory.Get<IEntityFactory>();
+			var entityCollection = new EntityCollection(UserConnection.Current, "VirtualAdAccount");
+			foreach (var adAccount in selectedAdAccounts) {
+				var entity = factory.CreateEntity("VirtualAdAccount");
+				entity.SetColumnValue("Id", adAccount.Id);
+				var name = GetAccountName(adAccount, dbAccountIdNameMap, dbAccountIds);
+				entity.SetColumnValue("Name", name);
+				entityCollection.Add(entity as Entity);
+			}
+			ApplySorting(esq, entityCollection);
+			return entityCollection;
+		}
+
+		#endregion
+
+	}
+
+	/// <summary>
+	/// Extensions for <see cref="EntitySchemaQuery"/>
+	/// </summary>
+	public static class EntitySchemaQueryExtensions
+	{
+
+		#region Methods: Public
+
+		/// <summary>
+		/// Gets sorting for <see cref="EntitySchemaQuery"/>.
+		/// </summary>
+		public static SortColumn GetSorting(this EntitySchemaQuery esq) {
+			return esq.Columns
+				.Where(c => c.OrderPosition == 1)
+				.Select(c => new SortColumn {
+					OrderPosition = c.OrderPosition,
+					OrderDirection = c.OrderDirection,
+					Name = c.Name
+				}).FirstOrDefault();
+		}
+
+		#endregion
+
+	}
+
+	/// <summary>
+	/// Column for sorting in <see cref="EntitySchemaQuery"/>
+	/// </summary>
+	public class SortColumn
+	{
+
+		#region Properties: Public
+
+		/// <summary>
+		/// Column name
+		/// </summary>
+		public string Name { get; set; }
+
+		/// <summary>
+		/// Column order direction
+		/// </summary>
+		public OrderDirection OrderDirection { get; set; }
+
+		/// <summary>
+		/// Column order position
+		/// </summary>
+		public int OrderPosition { get; set; }
+
+		#endregion
+
+	}
+}

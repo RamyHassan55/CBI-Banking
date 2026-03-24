@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\Bin\CrtCaseKnowledgeCopilot.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\Bin\CrtCaseKnowledgeCopilot.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.pdb

@@ -1,0 +1,57 @@
+﻿{
+    "Name":  "Event Management",
+    "Description":  "",
+    "Maintainer":  "Creatio",
+    "Icon":  "PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMy45MTczIDMuMzQ3MTdDMTcuNjM3OSAzLjM0NzE3IDIwLjcxNDYgNi44NTMxOCAyMC43MTQ2IDExLjIxNzhDMjAuNzE0NiAxMy4yNDkgMjAuMDM3MiAxNS4xMTU5IDE4LjkyNDMgMTYuNTIxOEMxOC44ODkzIDE2LjUyMTcgMTguODU0OCAxNi41MjE2IDE4LjgyMDggMTYuNTIxNkMxNS4xMjQxIDE3LjEyNTYgMTQuMjYwOSAxOS43Nzg5IDE0LjczIDIxLjk1MDVIMTQuNTkzNkMxNC4xNjQzIDIyLjUyMjkgMTIuOTE1NiAyNC43NDEgMTIuOTE1NiAyNS43NDI3QzEyLjkxNTYgMjYuNjY5IDEzLjYxODcgMjcuNTU4MiAxNC4wMTM2IDI3Ljk4NDZDMTQuMTUzMSAyOC4xMzUyIDE0LjE2NjIgMjguMzcxMyAxNC4wMzEgMjguNTI1OEMxMy44OTA5IDI4LjY4NiAxMy42NDQ2IDI4LjY5ODIgMTMuNDk3MSAyOC41NDQ3QzEyLjc4MzkgMjcuODAyMSAxMi4yODc5IDI2Ljk3MjEgMTIuMiAyNS43NDI3QzEyLjEyODUgMjQuNzQxIDEyLjg3NzUgMjMuMTY2OCAxMy42NjQ2IDIxLjk1MDVIMTMuNDZDMTIuODE5NyAyMS45NTA1IDEyLjM3OTggMjEuMzA2NSAxMi42MTI2IDIwLjcxTDEzLjI3MzMgMTkuMDE2OUM5LjgzODg1IDE4LjY1OTEgNy4xMTk5IDE1LjI5NjIgNy4xMTk5IDExLjIxNzhDNy4xMTk5IDYuODUzMTggMTAuMTk2NiAzLjM0NzE3IDEzLjkxNzMgMy4zNDcxN1pNMTQuNDE4MSAxNi41ODQxQzE0LjQxODEgMTYuOTc5MyAxNC43NDEzIDE3LjMwNzEgMTUuMTMwMiAxNy4yMzY1QzE3LjI5MjcgMTYuODQ0IDE4Ljc3NjMgMTQuNjUzNyAxOC45NzQ3IDExLjU3NTNDMTkuMDAwMSAxMS4xODA5IDE4LjY3NzEgMTAuODYgMTguMjgxOSAxMC44NkMxNy44ODY3IDEwLjg2IDE3LjU2OTQgMTEuMTgwOSAxNy41Mzc1IDExLjU3NDhDMTcuMzgyNyAxMy40ODcgMTYuNjAxNCAxNS4zMjM1IDE1LjEyNDMgMTUuNzY3M0MxNC43NDU4IDE1Ljg4MTEgMTQuNDE4MSAxNi4xODkgMTQuNDE4MSAxNi41ODQxWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yNi4yNDU2IDE2LjcyMzVDMjYuMDU4MyAxNi42MzYyIDI1Ljg1MDEgMTYuNjAzOSAyNS42NDUxIDE2LjYzMDJDMjUuNTMzMSAxNi42NDQ2IDI1LjQyNDUgMTYuNjc2MiAyNS4zMjMxIDE2LjcyMzVDMjUuMjM5IDE2Ljc2MjYgMjUuMTU5OSAxNi44MTI1IDI1LjA4NzcgMTYuODcyM0wyNS4wODQzIDE2Ljg3NTFDMjQuOTQ0OSAxNi45OTIgMjQuODA1MSAxNy4xMDExIDI0LjY2NTcgMTcuMjAzMUMyMy43NDEgMTcuODc5NSAyMi44MzAzIDE4LjI0MDQgMjIuMTIyNiAxOC40MzI5QzIxLjcxNTUgMTguNTQzNyAyMS4zNzc2IDE4LjU5ODIgMjEuMTQ2NCAxOC42MjVDMjEuMTA5OSAxOC42MjkyIDIxLjA3NiAxOC42MzI3IDIxLjA0NTEgMTguNjM1N0MyMC45NzgyIDE4LjY0MiAyMC45MjQ3IDE4LjY0NTcgMjAuODg2IDE4LjY0NzhDMjAuODU3NyAxOC42NDkzIDIwLjgzNzUgMTguNjUgMjAuODI1OCAxOC42NTAzTDIwLjgxNDkgMTguNjUwNUgxOS4wNDMzQzE4LjM3NzIgMTguNjUwNSAxNy43MzgzIDE4LjkxNTIgMTcuMjY3MiAxOS4zODY1QzE2Ljc5NjEgMTkuODU3NyAxNi41MzE1IDIwLjQ5NjkgMTYuNTMxNSAyMS4xNjMzQzE2LjUzMTUgMjEuODI5OCAxNi43OTYxIDIyLjQ2OSAxNy4yNjcyIDIyLjk0MDJDMTcuNTU3OSAyMy4yMzEgMTcuOTEyNSAyMy40NDMyIDE4LjI5NzkgMjMuNTYzTDE4LjkyOTggMjYuMTQ0M0MxOC45NjgzIDI2LjMwMjkgMTkuMDQyIDI2LjQ1MDggMTkuMTQ1NCAyNi41NzcxQzE5LjI1IDI2LjcwNDkgMTkuMzgyMyAyNi44MDcxIDE5LjUzMjMgMjYuODc2MkMxOS42ODIzIDI2Ljk0NTIgMTkuODQ2IDI2Ljk3OTIgMjAuMDExMSAyNi45NzU2QzIwLjE3NCAyNi45NzIgMjAuMzM0IDI2LjkzMTkgMjAuNDc5MyAyNi44NTgyTDIxLjMwNDggMjYuNDQ3NUMyMS40ODY3IDI2LjM1NzMgMjEuNjM5NyAyNi4yMTgxIDIxLjc0NjYgMjYuMDQ1NUMyMS44MzEzIDI1LjkwODcgMjEuODg0NCAyNS43NTUzIDIxLjkwMjcgMjUuNTk2NUwyMS45MDk4IDI1LjQwMDJWMjMuODM5M0MyMS45Nzg0IDIzLjg1NTggMjIuMDQ5NCAyMy44NzM5IDIyLjEyMjYgMjMuODkzOEMyMi44NjcxIDI0LjA5NjQgMjMuODM2NCAyNC40ODUyIDI0LjgxMDMgMjUuMjMxOUMyNC45MDE2IDI1LjMwMTkgMjQuOTkzIDI1LjM3NTEgMjUuMDg0MyAyNS40NTE2TDI1LjA4NzcgMjUuNDU0NEMyNS4xODYxIDI1LjUzNTkgMjUuMjk3NSAyNS41OTkgMjUuNDE2NiAyNS42NDE2QzI1LjQ5MDIgMjUuNjY3OSAyNS41NjY4IDI1LjY4NjQgMjUuNjQ1MSAyNS42OTY1QzI1Ljc2NzMgMjUuNzEyMiAyNS44OTA2IDI1LjcwNyAyNi4wMDk5IDI1LjY4MThDMjYuMDkwOCAyNS42NjQ3IDI2LjE2OTkgMjUuNjM4NSAyNi4yNDU2IDI1LjYwMzJDMjYuMzU1MyAyNS41NTIxIDI2LjQ1NTMgMjUuNDgzNCAyNi41NDE3IDI1LjQwMDJDMjYuNjAyOCAyNS4zNDE0IDI2LjY1NzEgMjUuMjc1NSAyNi43MDM0IDI1LjIwMzVDMjYuNzc4OCAyNS4wODYxIDI2LjgzMDggMjQuOTU2IDI2Ljg1NzEgMjQuODIwMkMyNi44Njk3IDI0Ljc1NDggMjYuODc2NCAyNC42ODgxIDI2Ljg3NyAyNC42MjA5TDI2Ljg3NyAyNC42MTUxTDI2Ljg3NyAxNy43MDU4QzI2Ljg3NTQgMTcuNDk5MSAyNi44MTUyIDE3LjI5NzEgMjYuNzAzNCAxNy4xMjMyQzI2LjU5MTYgMTYuOTQ5MyAyNi40MzI5IDE2LjgxMDcgMjYuMjQ1NiAxNi43MjM1Wk0yMC40MzQgMjMuNjc2MkgxOS44NDQ0TDIwLjI0NjEgMjUuMzI1NEwyMC40MzQgMjUuMjMxOUwyMC40MzQgMjMuNjc2MlpNMTkuMDQzMyAyMi4xOTk4SDIwLjQzNFYyMC4xMjY5SDE5LjA0MzNDMTguNzY4NiAyMC4xMjY5IDE4LjUwNSAyMC4yMzYxIDE4LjMxMDcgMjAuNDMwNUMxOC4xMTY0IDIwLjYyNDggMTguMDA3MyAyMC44ODg1IDE4LjAwNzMgMjEuMTYzM0MxOC4wMDczIDIxLjQzODIgMTguMTE2NCAyMS43MDE5IDE4LjMxMDcgMjEuODk2MkMxOC41MDUgMjIuMDkwNiAxOC43Njg2IDIyLjE5OTggMTkuMDQzMyAyMi4xOTk4WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==",
+    "IconName":  "EventMarketing",
+    "Color":  "#F9307F",
+    "Version":  "1.12.4",
+    "RequiredPlatformVersion":  "8.3.1",
+    "MarketplaceLink":  "",
+    "HelpLink":  "",
+    "OrderLink":  "",
+    "SupportEmail":  "",
+    "Code":  "CrtEventMarketingApp",
+    "Packages":  [
+                     {
+                         "UId":  "a098811e-2305-05ca-3ad1-39a8207d0f15",
+                         "Name":  "CrtMarketingInC360"
+                     },
+                     {
+                         "UId":  "1e385500-767f-1fe9-9471-68ce6d9147d4",
+                         "Name":  "CrtEventInC360"
+                     },
+                     {
+                         "UId":  "009fe918-ba63-10e1-3615-d242846391b9",
+                         "Name":  "CrtEventInCampaign"
+                     },
+                     {
+                         "UId":  "b3a694fe-f6c8-2691-5a29-a6a51930b203",
+                         "Name":  "CrtEvent"
+                     },
+                     {
+                         "UId":  "c971e656-3ac5-c191-2e0a-2ca3189af108",
+                         "Name":  "CrtMarketingBase"
+                     },
+                     {
+                         "UId":  "7854ba8d-8ec5-9cd9-4d9e-9bf01e18b865",
+                         "Name":  "CrtEventUtils"
+                     },
+                     {
+                         "UId":  "78af8132-af08-1463-5188-53e0ea51340c",
+                         "Name":  "CrtEventMarketingApp"
+                     },
+                     {
+                         "UId":  "5894b5ad-3c05-f840-8391-d703dad4fd26",
+                         "Name":  "CrtEventInCampaignBase"
+                     },
+                     {
+                         "UId":  "a93c2f2c-381d-e066-87a1-fbf58fd92024",
+                         "Name":  "CrtEventInCampaign7x"
+                     },
+                     {
+                         "UId":  "83301dd3-0384-48e1-2730-0ff1f53bec3c",
+                         "Name":  "CrtEventInTouchPoint"
+                     }
+                 ]
+}

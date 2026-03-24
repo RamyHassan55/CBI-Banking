@@ -1,0 +1,1 @@
+(self.webpackChunkapp_studio_enterprise_marketing_campaign=self.webpackChunkapp_studio_enterprise_marketing_campaign||[]).push([[9876,7495],{79876:(p,a,n)=>{n.r(a),n.d(a,{VERSION:()=>_});var e=n(59131);const _=new e.Version("16.2.14")}}]);

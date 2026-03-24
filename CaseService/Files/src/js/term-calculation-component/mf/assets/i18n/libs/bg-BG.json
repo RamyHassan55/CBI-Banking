@@ -1,0 +1,31 @@
+{
+  "SkeletonLoader": {
+    "Loading": "Зареждане..."
+  },
+  "CopyClipboard": {
+    "Copied": "Копирано"
+  },
+  "Placeholder": {
+    "Default": {
+      "Title": "Още няма нищо за показване ",
+      "Subhead": "Моля, първо добави данни"
+    }
+  },
+  "ChatSettings": {
+    "History": {
+      "Captions": {
+        "StartDate": "Чатът започна: {0} от",
+        "EndDate": "Чатът е завършен: {0} от"
+      }
+    }
+  },
+  "MaskLoader": {
+    "Loading": "Зареждане"
+  },
+  "Tooltip": {
+    "Mode": {
+      "Error": "Грешка",
+      "Default": "Подсказка"
+    }
+  }
+}

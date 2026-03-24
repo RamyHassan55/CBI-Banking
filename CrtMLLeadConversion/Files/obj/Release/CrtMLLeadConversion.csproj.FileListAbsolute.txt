@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLLeadConversion\Files\Bin\CrtMLLeadConversion.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLLeadConversion\Files\Bin\CrtMLLeadConversion.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLLeadConversion\Files\obj\Release\CrtMLLeadConversion.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLLeadConversion\Files\obj\Release\CrtMLLeadConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLLeadConversion\Files\obj\Release\CrtMLLeadConversion.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLLeadConversion\Files\obj\Release\CrtMLLeadConversion.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLLeadConversion\Files\obj\Release\CrtMLLeadConversion.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLLeadConversion\Files\obj\Release\CrtMLLeadConversion.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLLeadConversion\Files\obj\Release\CrtMLLeadConversion.pdb

@@ -1,0 +1,100 @@
+﻿{
+    "Name":  "Case Management",
+    "Description":  "",
+    "Maintainer":  "Creatio",
+    "Icon":  "PHN2ZyB3aWR0aD0iMzgiIGhlaWdodD0iMzgiIHZpZXdCb3g9IjAgMCAzOCAzOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik01IDdDNC40NDc3MiA3IDQgNy40NDc3MiA0IDhWMThDNCAxOC41NTIzIDQuNDQ3NzIgMTkgNSAxOVYxOUM1LjU1MjI4IDE5IDYgMTkuNDQ3NyA2IDIwVjIwQzYgMjAuODI0IDYuOTQwNzYgMjEuMjk0NCA3LjYgMjAuOEw5LjczMzMzIDE5LjJDOS45MDY0MyAxOS4wNzAyIDEwLjExNyAxOSAxMC4zMzMzIDE5SDE5QzE5LjU1MjMgMTkgMjAgMTguNTUyMyAyMCAxOFY4QzIwIDcuNDQ3NzIgMTkuNTUyMyA3IDE5IDdINVpNMTMgMTZDMTMgMTYuNTUyMyAxMi41NTIzIDE3IDEyIDE3VjE3QzExLjQ0NzcgMTcgMTEgMTYuNTUyMyAxMSAxNlYxNkMxMSAxNS40NDc3IDExLjQ0NzcgMTUgMTIgMTVWMTVDMTIuNTUyMyAxNSAxMyAxNS40NDc3IDEzIDE2VjE2Wk0xMyAxM0MxMyAxMy41NTIzIDEyLjU1MjMgMTQgMTIgMTRWMTRDMTEuNDQ3NyAxNCAxMSAxMy41NTIzIDExIDEzVjEwQzExIDkuNDQ3NzIgMTEuNDQ3NyA5IDEyIDlWOUMxMi41NTIzIDkgMTMgOS40NDc3MiAxMyAxMFYxM1oiIGZpbGw9IndoaXRlIi8+DQo8cGF0aCBkPSJNMjcgMjJDMjkuMjA5MSAyMiAzMSAyMC4yMDkxIDMxIDE4QzMxIDE1Ljc5MDkgMjkuMjA5MSAxNCAyNyAxNEMyNC43OTA5IDE0IDIzIDE1Ljc5MDkgMjMgMThDMjMgMjAuMjA5MSAyNC43OTA5IDIyIDI3IDIyWiIgZmlsbD0id2hpdGUiLz4NCjxwYXRoIGQ9Ik03IDI0LjIwNzFDNyAyMy43NjE3IDYuNDYxNDMgMjMuNTM4NiA2LjE0NjQ1IDIzLjg1MzZWMjMuODUzNkM2LjA1MjY4IDIzLjk0NzMgNiAyNC4wNzQ1IDYgMjQuMjA3MVYyNUM2IDI1LjUzMDQgNi4yMTA3NCAyNi4wMzkyIDYuNTg1ODIgMjYuNDE0M0M2Ljk2MDg5IDI2Ljc4OTQgNy40Njk1NyAyNyA4IDI3SDE3QzE3LjU1MjMgMjcgMTggMjcuNDQ3NyAxOCAyOFYyOEMxOCAyOC41NTIzIDE3LjU1MjMgMjkgMTcgMjlIMTQuNUMxNC4yMjM5IDI5IDE0IDI5LjIyMzkgMTQgMjkuNVYyOS41QzE0IDI5Ljc3NjEgMTQuMjIzOSAzMCAxNC41IDMwSDE4LjAyNzNDMTguNTY4OCAzMCAxOS4wMDUyIDI5LjU2NyAxOS4wODc0IDI5LjAzMThDMTkuMjAzMyAyOC4yNzc1IDE5LjQyOTEgMjcuNTQ2NiAxOS43NTU2IDI2Ljg2MThDMjAuMTI4NCAyNi4wODAxIDE5LjYxOSAyNSAxOC43NTI5IDI1SDcuNTg1NzlDNy4yNjIyNyAyNSA3IDI0LjczNzcgNyAyNC40MTQyVjI0LjIwNzFaIiBmaWxsPSJ3aGl0ZSIvPg0KPHBhdGggZD0iTTMwIDlIMjIuNUMyMi4yMjM5IDkgMjIgOS4yMjM4NiAyMiA5LjVWOS41QzIyIDkuNzc2MTQgMjIuMjIzOSAxMCAyMi41IDEwSDMwQzMwLjU1MjMgMTAgMzEgMTAuNDQ3NyAzMSAxMVYxMy44ODJDMzEgMTMuOTU5NiAzMS4wMTgxIDE0LjAzNjEgMzEuMDUyOCAxNC4xMDU2VjE0LjEwNTZDMzEuMjg4NyAxNC41Nzc1IDMyIDE0LjQwOTYgMzIgMTMuODgyVjExQzMyIDEwLjQ2OTYgMzEuNzg5MyA5Ljk2MDc3IDMxLjQxNDIgOS41ODU2OUMzMS4wMzkxIDkuMjEwNjIgMzAuNTMwNCA5IDMwIDlaIiBmaWxsPSJ3aGl0ZSIvPg0KPHBhdGggZD0iTTI2LjQ0NzIgMjMuODk0NEMyNi42NzUgMjQuMzQ5OSAyNy4zMjUgMjQuMzQ5OSAyNy41NTI4IDIzLjg5NDRWMjMuODk0NEMyNy43NTgzIDIzLjQ4MzUgMjcuNDU5NCAyMyAyNyAyM1YyM0MyNi41NDA2IDIzIDI2LjI0MTcgMjMuNDgzNSAyNi40NDcyIDIzLjg5NDRWMjMuODk0NFoiIGZpbGw9IndoaXRlIi8+DQo8cGF0aCBkPSJNMjYuNSAyNkwyNiAzMEgyOEwyNy41IDI2SDI2LjVaIiBmaWxsPSJ3aGl0ZSIvPg0KPHBhdGggZD0iTTI0Ljk5NzEgMjVDMjQuOTk3MSAyNC40NDc3IDI0LjU0MTggMjMuOTg5NSAyNC4wMDkyIDI0LjEzNTdDMjIuMDkxOCAyNC42NjIzIDIwLjQ0ODYgMjYuNjU3MiAyMC4wNzYxIDI5LjAwMzlDMTkuOTg5NSAyOS41NDk0IDIwLjQ0NDggMzAgMjAuOTk3MSAzMEgyMy45OTcxQzI0LjU0OTQgMzAgMjQuOTk3MSAyOS41NTIzIDI0Ljk5NzEgMjlWMjVaIiBmaWxsPSJ3aGl0ZSIvPg0KPHBhdGggZD0iTTI5IDI1QzI5IDI0LjQ0NzcgMjkuNDU1MyAyMy45ODk1IDI5Ljk4NzggMjQuMTM1N0MzMS45MDUzIDI0LjY2MjMgMzMuNTQ4NCAyNi42NTcyIDMzLjkyMSAyOS4wMDM5QzM0LjAwNzYgMjkuNTQ5NCAzMy41NTIzIDMwIDMzIDMwSDMwQzI5LjQ0NzcgMzAgMjkgMjkuNTUyMyAyOSAyOVYyNVoiIGZpbGw9IndoaXRlIi8+DQo8L3N2Zz4NCg==",
+    "IconName":  "case-management-image.svg",
+    "Color":  "#7848EE",
+    "Version":  "1.13.10",
+    "MarketplaceLink":  "",
+    "HelpLink":  "",
+    "OrderLink":  "",
+    "SupportEmail":  "",
+    "Code":  "CrtCaseManagementApp",
+    "Packages":  [
+                     {
+                         "UId":  "0daea9e4-b08a-abb1-687e-7dc834448743",
+                         "Name":  "CrtCase7x"
+                     },
+                     {
+                         "UId":  "01204aad-6bd9-1e6a-387d-e1f2a0a2a898",
+                         "Name":  "CrtEmailMessage"
+                     },
+                     {
+                         "UId":  "5ef9db41-8594-97d1-ab9d-8ca7106e5e53",
+                         "Name":  "CrtCaseManagement"
+                     },
+                     {
+                         "UId":  "43d663d1-6ab9-4369-903c-f804cacc55e4",
+                         "Name":  "CrtCaseManagementApp"
+                     },
+                     {
+                         "UId":  "83b1062a-d944-eba7-a72b-5400034c6223",
+                         "Name":  "CrtCaseManagmentObject"
+                     },
+                     {
+                         "UId":  "335c46ac-da94-33b1-a9b5-03a3f3644fe8",
+                         "Name":  "CrtCaseService"
+                     },
+                     {
+                         "UId":  "41e882f0-2560-257b-a881-a619d3f2584c",
+                         "Name":  "CrtCaseService7x"
+                     },
+                     {
+                         "UId":  "b8b21e51-9f46-5ec8-7c53-32cbd8b5c6c1",
+                         "Name":  "CrtCasesInC360"
+                     },
+                     {
+                         "UId":  "016b1832-0aa2-d2cf-cf9f-5ad4d6767b7a",
+                         "Name":  "CrtCustomerInfoInCaseMgmt"
+                     },
+                     {
+                         "UId":  "6e2a4410-5e7e-5aa2-87cc-bc9ee01147e0",
+                         "Name":  "CrtCasesInChats"
+                     },
+                     {
+                         "UId":  "4e73fa03-93ef-4f81-12f9-2182efad1e2a",
+                         "Name":  "CrtJunkFilter"
+                     },
+                     {
+                         "UId":  "9fa04b54-93d6-cb1c-5c0c-4121c5f72c91",
+                         "Name":  "CrtPortal"
+                     },
+                     {
+                         "UId":  "8073e9c8-edb1-3d73-2e54-55b005de61ec",
+                         "Name":  "CrtSLAInC360"
+                     },
+                     {
+                         "UId":  "ff2cadfe-f4c2-06cd-930f-1401ae848c21",
+                         "Name":  "CrtSLM"
+                     },
+                     {
+                         "UId":  "f0fa2639-5fd1-6e6b-12ee-665460964056",
+                         "Name":  "CrtSLM7x"
+                     },
+                     {
+                         "UId":  "bda2916d-1b8a-1fa2-ab37-43798c48146f",
+                         "Name":  "CrtSLMITILService"
+                     },
+                     {
+                         "UId":  "f129f46d-d9a7-1aac-bc40-5626f9c428da",
+                         "Name":  "CrtSLMITILService7x"
+                     },
+                     {
+                         "UId":  "e91fc624-f834-474b-a0ac-875f8b399332",
+                         "Name":  "MLCaseClassification"
+                     },
+                     {
+                         "UId":  "68cc6c19-a608-8ca9-caa4-c3ceb523cf76",
+                         "Name":  "MLSimilarCaseSearch"
+                     },
+                     {
+                         "UId":  "8739d621-405b-219f-c713-ebf748faeee7",
+                         "Name":  "CrtCaseKnowledgeCopilot"
+                     },
+                     {
+                         "UId":  "7f44885b-2fe5-7785-469d-4606220c1f6a",
+                         "Name":  "CrtCaseCopilot"
+                     }
+                 ]
+}

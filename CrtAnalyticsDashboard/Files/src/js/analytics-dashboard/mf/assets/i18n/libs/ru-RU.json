@@ -1,0 +1,84 @@
+{
+  "SkeletonLoader": {
+    "Loading": "Загрузка..."
+  },
+  "CopyClipboard": {
+    "Copied": "Скопировано"
+  },
+  "Placeholder": {
+    "Default": {
+      "Title": "Здесь еще ничего нет",
+      "Subhead": "Добавьте данные и начинайте работу"
+    }
+  },
+  "History": {
+    "Captions": {
+      "StartDate": "Чат начат: {0}, ",
+      "EndDate": "Чат завершен: {0}, "
+    }
+  },
+  "MaskLoader": {
+    "Loading": "Загрузка"
+  },
+  "Tooltip": {
+    "Mode": {
+      "Error": "Ошибка",
+      "Default": "Подсказка"
+    }
+  },
+  "Validators": {
+    "Autocomplete": {
+      "Message": "Выберите значение из списка",
+      "SelectionWindowMessage": "Выберите значение из списка или окна выбора"
+    },
+    "Required": {
+      "Message": "Необходимо указать значение"
+    },
+    "MaxLength": {
+      "Message": "Превышена допустимая длина текста ({{actualLength}}/{{maxLength}})"
+    },
+    "MinLength": {
+      "Message": "Не достигнута допустимая длина текста ({{actualLength}}/{{minLength}})"
+    },
+    "DatetimePickerSyntax": {
+      "Message": "Неправильный формат даты и времени"
+    },
+    "DatePickerSyntax": {
+      "Message": "Неправильный формат даты"
+    },
+    "TimePickerSyntax": {
+      "Message": "Неправильный формат времени"
+    },
+    "RegExp": {
+      "Message": "Неправильный формат значения"
+    },
+    "PhoneNumber": {
+      "Message": "Неправильный номер телефона"
+    },
+    "SchemaNamePrefix": {
+      "NoSchemaNamePrefixMessage": "Код должен начинаться с префикса {{schemaNamePrefix}}.",
+      "OnlySchemaNamePrefixMessage": "Введите хотя бы еще один символ."
+    },
+    "SchemaNameAllowedSymbols": {
+      "Message": "Используйте a-z, A-Z, 0-9, нижнее подчеркивание или тире. Только буквы могут быть первыми."
+    },
+    "UniqueCodeColumnValue": {
+      "Message": "Значение '{{controlValue}}' уже существует в колонке 'Код'."
+    }
+  },
+  "BaseViewModel": {
+    "DataSourceAttributeRemoved": "Колонка удалена",
+    "ValidationErrorMessageSingleErrorField": "Поле: {0}. Ошибка: {1}",
+    "ValidationErrorMessageSeveralErrorFields": "Поля: {0}. Ошибка: {1}",
+    "RefreshModelDataConflict": "В системе есть обновленные данные для текущей страницы. Чтобы их отобразить. сохраните или отмените внесенные изменения и обновите страницу.",
+    "WarningModelsWithCircularDependencies": "Некоторые модели имеют циклические зависимости и не были загружены",
+    "LoadingModelErrorMessage": "Произошла ошибка при выполнении запроса",
+    "ErrorMessageOnEmptyRelationColumn": "Невозможно сохранить страницу. Заполните значение поля  {{caption}} или удалите значения связанных полей."
+  },
+  "LoadDataRequest": {
+    "SuccessMessage": "Данные обновлены"
+  },
+  "Dialog": {
+    "ProcessSchemaSavedWithValidationError": "Схема процесса успешно сохранена, однако ошибки валидации препятствуют его запуску."
+  }
+}

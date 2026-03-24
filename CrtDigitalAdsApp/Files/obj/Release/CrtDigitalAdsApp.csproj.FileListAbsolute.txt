@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtDigitalAdsApp\Files\Bin\CrtDigitalAdsApp.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtDigitalAdsApp\Files\Bin\CrtDigitalAdsApp.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtDigitalAdsApp\Files\obj\Release\CrtDigitalAdsApp.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtDigitalAdsApp\Files\obj\Release\CrtDigitalAdsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtDigitalAdsApp\Files\obj\Release\CrtDigitalAdsApp.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtDigitalAdsApp\Files\obj\Release\CrtDigitalAdsApp.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtDigitalAdsApp\Files\obj\Release\CrtDigitalAdsApp.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtDigitalAdsApp\Files\obj\Release\CrtDigitalAdsApp.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtDigitalAdsApp\Files\obj\Release\CrtDigitalAdsApp.pdb

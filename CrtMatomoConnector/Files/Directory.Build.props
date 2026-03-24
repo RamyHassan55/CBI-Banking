@@ -1,0 +1,8 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtMatomoConnector/Schemas/ReferrerType/ReferrerType.cs" Condition="Exists('$(PkgPath)/CrtMatomoConnector/Schemas/ReferrerType/ReferrerType.cs')" />
+		<Compile Include="$(PkgPath)/CrtMatomoConnector/Schemas/Touch/Touch.cs" Condition="Exists('$(PkgPath)/CrtMatomoConnector/Schemas/Touch/Touch.cs')" />
+		<Compile Include="$(PkgPath)/CrtMatomoConnector/Schemas/TouchActionType/TouchActionType.cs" Condition="Exists('$(PkgPath)/CrtMatomoConnector/Schemas/TouchActionType/TouchActionType.cs')" />
+		<Compile Include="$(PkgPath)/CrtMatomoConnector/Schemas/WebFormData/WebFormData.cs" Condition="Exists('$(PkgPath)/CrtMatomoConnector/Schemas/WebFormData/WebFormData.cs')" />
+	</ItemGroup>
+</Project>

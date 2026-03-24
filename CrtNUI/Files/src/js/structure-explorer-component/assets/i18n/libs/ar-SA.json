@@ -1,0 +1,31 @@
+{
+  "SkeletonLoader": {
+    "Loading": "تحميل..."
+  },
+  "CopyClipboard": {
+    "Copied": "منسوخ"
+  },
+  "Placeholder": {
+    "Default": {
+      "Title": "لا يوجد شيء لإظهاره حتى الآن ",
+      "Subhead": "يرجى إضافة البيانات التالية أولًا"
+    }
+  },
+  "ChatSettings": {
+    "History": {
+      "Captions": {
+        "StartDate": "بدأت الدردشة: {0} بواسطة",
+        "EndDate": "اكتملت الدردشة: {0} بواسطة"
+      }
+    }
+  },
+  "MaskLoader": {
+    "Loading": "تحميل"
+  },
+  "Tooltip": {
+    "Mode": {
+      "Error": "خطأ",
+      "Default": "لمحة عن الأدوات"
+    }
+  }
+}

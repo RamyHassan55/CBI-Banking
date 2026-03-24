@@ -1,0 +1,31 @@
+{
+  "SkeletonLoader": {
+    "Loading": "Duke u ngarkuar..."
+  },
+  "CopyClipboard": {
+    "Copied": "Kopjo"
+  },
+  "Placeholder": {
+    "Default": {
+      "Title": "Ende asgjë për të treguar ",
+      "Subhead": "Të lutem shto së pari të dhënat"
+    }
+  },
+  "ChatSettings": {
+    "History": {
+      "Captions": {
+        "StartDate": "Fillimi i bisedës: {0} nga",
+        "EndDate": "Përfundimi i bisedës: {0} nga"
+      }
+    }
+  },
+  "MaskLoader": {
+    "Loading": "Loading"
+  },
+  "Tooltip": {
+    "Mode": {
+      "Error": "Gabim",
+      "Default": "Tekst informues"
+    }
+  }
+}

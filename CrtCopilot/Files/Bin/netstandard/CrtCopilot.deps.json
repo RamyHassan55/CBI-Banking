@@ -1,0 +1,284 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "CrtCopilot/8.3.1.4410": {
+        "dependencies": {
+          "CrtCoreBase": "8.3.1.4410",
+          "NETStandard.Library": "2.0.3",
+          "Newtonsoft.Json": "13.0.0.0"
+        },
+        "runtime": {
+          "CrtCopilot.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "CrtCoreBase/8.3.1.4410": {
+        "runtime": {
+          "CrtCoreBase.dll": {
+            "assemblyVersion": "8.3.1.4410",
+            "fileVersion": "8.3.1.4410"
+          }
+        },
+        "resources": {
+          "bg-BG/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "bg-BG"
+          },
+          "ca-ES/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "ca-ES"
+          },
+          "cs-CZ/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "cs-CZ"
+          },
+          "da-DK/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "da-DK"
+          },
+          "de-DE/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "de-DE"
+          },
+          "el-GR/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "el-GR"
+          },
+          "en-US/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "en-US"
+          },
+          "es-ES/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "es-ES"
+          },
+          "et-EE/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "et-EE"
+          },
+          "eu-ES/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "eu-ES"
+          },
+          "fi-FI/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "fi-FI"
+          },
+          "fr-FR/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "gl-ES/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "gl-ES"
+          },
+          "hi-IN/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "hi-IN"
+          },
+          "hr-HR/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "hr-HR"
+          },
+          "hu-HU/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "hu-HU"
+          },
+          "id-ID/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "id-ID"
+          },
+          "it-IT/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "it-IT"
+          },
+          "ja-JP/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "kk-KZ/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "kk-KZ"
+          },
+          "ko-KR/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "ko-KR"
+          },
+          "lt-LT/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "lt-LT"
+          },
+          "lv-LV/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "lv-LV"
+          },
+          "ms-MY/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "ms-MY"
+          },
+          "nb-NO/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "nb-NO"
+          },
+          "nl-NL/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "nl-NL"
+          },
+          "pl-PL/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "pl-PL"
+          },
+          "pt-BR/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "pt-PT/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "ro-RO/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "ro-RO"
+          },
+          "ru-RU/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "sk-SK/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "sk-SK"
+          },
+          "sl-SI/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "sl-SI"
+          },
+          "sr-Cyrl-RS/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "sr-Cyrl-RS"
+          },
+          "sr-Latn-RS/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "sr-Latn-RS"
+          },
+          "sv-SE/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "sv-SE"
+          },
+          "th-TH/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "th-TH"
+          },
+          "tr-TR/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "tr-TR"
+          },
+          "uk-UA/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "uk-UA"
+          },
+          "vi-VN/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "vi-VN"
+          },
+          "zh-CN/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "zh-TW/Microsoft.PowerFx.Core.resources.dll": {
+            "locale": "zh-TW"
+          },
+          "cs/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "cs"
+          },
+          "de/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "de"
+          },
+          "es/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "es"
+          },
+          "fr/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "fr"
+          },
+          "it/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "it"
+          },
+          "ja/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "ko"
+          },
+          "pl/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "pl"
+          },
+          "pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "ru/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "ru"
+          },
+          "tr/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "tr"
+          },
+          "zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll": {
+            "locale": "zh-Hant"
+          },
+          "cs/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "cs"
+          },
+          "de/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "de"
+          },
+          "es/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "es"
+          },
+          "fr/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "fr"
+          },
+          "it/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "it"
+          },
+          "ja/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "ko"
+          },
+          "pl/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "pl"
+          },
+          "pt-BR/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "ru/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "ru"
+          },
+          "tr/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "tr"
+          },
+          "zh-Hans/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "zh-Hant/Microsoft.CodeAnalysis.resources.dll": {
+            "locale": "zh-Hant"
+          },
+          "ru-RU/Terrasoft.ActorSystem.resources.dll": {
+            "locale": "ru-RU"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CrtCopilot/8.3.1.4410": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "CrtCoreBase/8.3.1.4410": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

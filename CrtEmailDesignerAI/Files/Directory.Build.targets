@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/CrtEmailDesignerAI/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/CrtEmailDesignerAI/Data/**" />
+		<Compile Remove="$(PkgPath)/CrtEmailDesignerAI/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/CrtEmailDesignerAI/Schemas\**" />
+		<Compile Remove="$(PkgPath)/CrtEmailDesignerAI/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEmailDesignerAI/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEmailDesignerAI/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEmailDesignerAI/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEmailDesignerAI/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEmailDesignerAI/Resources/**" />
+		<None Remove="$(PkgPath)/CrtEmailDesignerAI/Assemblies/**" />
+		<None Remove="$(PkgPath)/CrtEmailDesignerAI/Data/**" />
+		<None Remove="$(PkgPath)/CrtEmailDesignerAI/SqlScripts/**" />
+		<None Remove="$(PkgPath)/CrtEmailDesignerAI/Schemas/**" />
+		<None Remove="$(PkgPath)/CrtEmailDesignerAI/Resources/**" />
+  </ItemGroup>
+</Project>

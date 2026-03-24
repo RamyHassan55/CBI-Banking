@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractMgmtApp\Files\Bin\CrtOrderContractMgmtApp.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractMgmtApp\Files\Bin\CrtOrderContractMgmtApp.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractMgmtApp\Files\obj\Release\CrtOrderContractMgmtApp.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractMgmtApp\Files\obj\Release\CrtOrderContractMgmtApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractMgmtApp\Files\obj\Release\CrtOrderContractMgmtApp.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractMgmtApp\Files\obj\Release\CrtOrderContractMgmtApp.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractMgmtApp\Files\obj\Release\CrtOrderContractMgmtApp.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractMgmtApp\Files\obj\Release\CrtOrderContractMgmtApp.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractMgmtApp\Files\obj\Release\CrtOrderContractMgmtApp.pdb

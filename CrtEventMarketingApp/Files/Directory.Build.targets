@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/CrtEventMarketingApp/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/CrtEventMarketingApp/Data/**" />
+		<Compile Remove="$(PkgPath)/CrtEventMarketingApp/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/CrtEventMarketingApp/Schemas\**" />
+		<Compile Remove="$(PkgPath)/CrtEventMarketingApp/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEventMarketingApp/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEventMarketingApp/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEventMarketingApp/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEventMarketingApp/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEventMarketingApp/Resources/**" />
+		<None Remove="$(PkgPath)/CrtEventMarketingApp/Assemblies/**" />
+		<None Remove="$(PkgPath)/CrtEventMarketingApp/Data/**" />
+		<None Remove="$(PkgPath)/CrtEventMarketingApp/SqlScripts/**" />
+		<None Remove="$(PkgPath)/CrtEventMarketingApp/Schemas/**" />
+		<None Remove="$(PkgPath)/CrtEventMarketingApp/Resources/**" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "CalendarBase/8.3.1.4498": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/CalendarBase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalendarBase.dll": {}
+        }
+      },
+      "CrtBaseConsts/8.3.1.4498": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/CrtBaseConsts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CrtBaseConsts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalendarBase/8.3.1.4498": {
+      "type": "project",
+      "path": "../../CalendarBase/Files/CalendarBase.csproj",
+      "msbuildProject": "../../CalendarBase/Files/CalendarBase.csproj"
+    },
+    "CrtBaseConsts/8.3.1.4498": {
+      "type": "project",
+      "path": "../../CrtBaseConsts/Files/CrtBaseConsts.csproj",
+      "msbuildProject": "../../CrtBaseConsts/Files/CrtBaseConsts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "CalendarBase >= 8.3.1.4498",
+      "CrtBaseConsts >= 8.3.1.4498"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\CIAdmin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "8.3.1.4498",
+    "restore": {
+      "projectUniqueName": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtML\\Files\\CrtML.csproj",
+      "projectName": "CrtML",
+      "projectPath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtML\\Files\\CrtML.csproj",
+      "packagesPath": "C:\\Users\\CIAdmin\\.nuget\\packages\\",
+      "outputPath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtML\\Files\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\CIAdmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "https://ts1-infr-nexus.bpmonline.com/repository/nuget-v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {
+            "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CalendarBase\\Files\\CalendarBase.csproj": {
+              "projectPath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CalendarBase\\Files\\CalendarBase.csproj"
+            },
+            "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtBaseConsts\\Files\\CrtBaseConsts.csproj": {
+              "projectPath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtBaseConsts\\Files\\CrtBaseConsts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

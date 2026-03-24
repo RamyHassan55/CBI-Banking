@@ -1,0 +1,27 @@
+{
+	"OpenLandingPageDesigner": {
+		"SysSettingsError": "Нам не удается подключиться к сервису. Пожалуйста, заполните системные настройки «Identity server Url», «Identity server client id“», «Identity server client secret» и «Social Web App Account» и повторите попытку."
+	},
+	"PublishLandingPage": {
+		"RequestError": "Не удалось опубликовать лендинг. Попробуйте снова или обратитесь за помощью к системному администратору"
+	},
+	"UnpublishLandingPage": {
+		"RequestError": "Не удалось снять с публикации лендинг. Попробуйте снова или обратитесь за помощью к системному администратору"
+	},
+	"ExportContent": {
+		"DownloadStarted": "Загрузка началась",
+		"DownloadError": "Загрузка не удалась. Повторите попытку"
+	},
+	"UnpublishModal": {
+		"Title": "Снять лендинг с публикации?",
+		"Message": "Этот лендинг будет снят с публикации. Пожалуйста, убедитесь, что все ссылки на него обновлены или перенаправлены",
+		"CancelButton": "Отменить",
+		"UnpublishButton": "Снять с публикации"
+	},
+	"ManageForm": {
+		"Label": "Настройки формы"
+	},
+	"CopyLandingPage": {
+		"RequestError": "Произошла ошибка при копировании лендинга. Попробуйте еще раз"
+	}
+}

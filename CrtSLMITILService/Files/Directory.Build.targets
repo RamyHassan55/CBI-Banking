@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/CrtSLMITILService/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/CrtSLMITILService/Data/**" />
+		<Compile Remove="$(PkgPath)/CrtSLMITILService/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/CrtSLMITILService/Schemas\**" />
+		<Compile Remove="$(PkgPath)/CrtSLMITILService/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtSLMITILService/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtSLMITILService/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtSLMITILService/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtSLMITILService/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtSLMITILService/Resources/**" />
+		<None Remove="$(PkgPath)/CrtSLMITILService/Assemblies/**" />
+		<None Remove="$(PkgPath)/CrtSLMITILService/Data/**" />
+		<None Remove="$(PkgPath)/CrtSLMITILService/SqlScripts/**" />
+		<None Remove="$(PkgPath)/CrtSLMITILService/Schemas/**" />
+		<None Remove="$(PkgPath)/CrtSLMITILService/Resources/**" />
+  </ItemGroup>
+</Project>

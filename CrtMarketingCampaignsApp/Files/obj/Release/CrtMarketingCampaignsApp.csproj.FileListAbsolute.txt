@@ -1,0 +1,9 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingCampaignsApp\Files\Bin\CrtMarketingCampaignsApp.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingCampaignsApp\Files\Bin\CrtMarketingCampaignsApp.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingCampaignsApp\Files\obj\Release\CrtMarketingCampaignsApp.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingCampaignsApp\Files\obj\Release\CrtMarketingCampaignsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingCampaignsApp\Files\obj\Release\CrtMarketingCampaignsApp.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingCampaignsApp\Files\obj\Release\CrtMarketingCampaignsApp.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingCampaignsApp\Files\obj\Release\CrtMarketingCampaignsApp.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingCampaignsApp\Files\obj\Release\CrtMarketingCampaignsApp.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingCampaignsApp\Files\obj\Release\CrtMarketingCampaignsApp.pdb
