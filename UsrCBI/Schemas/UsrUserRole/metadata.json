@@ -55,6 +55,10 @@
 = MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"].CK2.["c803a450-c8dc-47a4-b704-7125c23db317"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
 = MetaData.Schema.EG1.JC1 []
 = MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "3d8f7d70-5b42-c545-57af-6b5767ac3e92"
 + MetaData.Schema.D2 {
   "UId": "361e5dc2-885b-00b8-0689-c2772771a74e",
   "A2": "UsrStatus",
@@ -94,6 +98,10 @@
   "E6": true,
   "E20": true,
   "E9": true,
+  "E12": {
+    "FB1": 3,
+    "FB2": "4f367ca9-549b-4a1a-b64e-a40123f52ac0"
+  },
   "E17": "UsrMakerId",
   "E18": "UsrMakerName"
 }
@@ -121,7 +129,8 @@
   "E6": true,
   "E20": true,
   "E9": true,
-  "E17": "UsrRoleId"
+  "E17": "UsrRoleId",
+  "E18": "UsrRoleUsrName"
 }
 + MetaData.Schema.D2 {
   "UId": "28d29a9e-a8ca-3744-c8a9-0dd95f0382ef",
@@ -137,7 +146,15 @@
   "E17": "UsrDepartmentsId",
   "E18": "UsrDepartmentsName"
 }
-~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","361e5dc2-885b-00b8-0689-c2772771a74e","026cef88-5499-c528-d4fa-500036e96197","4598946d-2be6-d928-6a17-e390fce1b319","820c6cc9-c4b1-293e-abbb-8c1ae9125de6","635fe334-71f4-6dcd-0b48-98449dcd3a50","28d29a9e-a8ca-3744-c8a9-0dd95f0382ef"]
++ MetaData.Schema.D2 {
+  "UId": "3d8f7d70-5b42-c545-57af-6b5767ac3e92",
+  "A2": "UsrName",
+  "A3": "cc64893d-89c1-4d9e-b971-4679cb781309",
+  "A4": "cc64893d-89c1-4d9e-b971-4679cb781309",
+  "A5": "56c4510e-63a5-4a02-9c3a-4bcbe0af0265",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","361e5dc2-885b-00b8-0689-c2772771a74e","026cef88-5499-c528-d4fa-500036e96197","4598946d-2be6-d928-6a17-e390fce1b319","820c6cc9-c4b1-293e-abbb-8c1ae9125de6","635fe334-71f4-6dcd-0b48-98449dcd3a50","28d29a9e-a8ca-3744-c8a9-0dd95f0382ef","3d8f7d70-5b42-c545-57af-6b5767ac3e92"]
 = MetaData.Schema.D20.A2 "UsrUserRoleEvents"
 = MetaData.Schema.D36.A3 "cc64893d-89c1-4d9e-b971-4679cb781309"
 = MetaData.Schema.D36.BS1 false

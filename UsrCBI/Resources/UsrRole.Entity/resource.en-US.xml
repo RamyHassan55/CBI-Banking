@@ -8,7 +8,9 @@
 			<Item Name="Columns.UsrDescription.Caption" Value="Description" />
 			<Item Name="Columns.UsrMaker.Caption" Value="Maker" />
 			<Item Name="Columns.UsrName.Caption" Value="Name" />
-			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+			<Item Name="Columns.UsrStage.Caption" Value="Stage" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
 		</Items>
 	</Group>
 </Resources>
