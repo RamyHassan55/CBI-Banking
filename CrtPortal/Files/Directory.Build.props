@@ -1,0 +1,8 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtPortal/Schemas/Case/Case.cs" Condition="Exists('$(PkgPath)/CrtPortal/Schemas/Case/Case.cs')" />
+		<Compile Include="$(PkgPath)/CrtPortal/Schemas/DayOff/DayOff.cs" Condition="Exists('$(PkgPath)/CrtPortal/Schemas/DayOff/DayOff.cs')" />
+		<Compile Include="$(PkgPath)/CrtPortal/Schemas/KnowledgeBase/KnowledgeBase.cs" Condition="Exists('$(PkgPath)/CrtPortal/Schemas/KnowledgeBase/KnowledgeBase.cs')" />
+		<Compile Include="$(PkgPath)/CrtPortal/Schemas/SysDashboard/SysDashboard.cs" Condition="Exists('$(PkgPath)/CrtPortal/Schemas/SysDashboard/SysDashboard.cs')" />
+	</ItemGroup>
+</Project>

@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/CrtMatomoConnector/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/CrtMatomoConnector/Data/**" />
+		<Compile Remove="$(PkgPath)/CrtMatomoConnector/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/CrtMatomoConnector/Schemas\**" />
+		<Compile Remove="$(PkgPath)/CrtMatomoConnector/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtMatomoConnector/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtMatomoConnector/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtMatomoConnector/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtMatomoConnector/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtMatomoConnector/Resources/**" />
+		<None Remove="$(PkgPath)/CrtMatomoConnector/Assemblies/**" />
+		<None Remove="$(PkgPath)/CrtMatomoConnector/Data/**" />
+		<None Remove="$(PkgPath)/CrtMatomoConnector/SqlScripts/**" />
+		<None Remove="$(PkgPath)/CrtMatomoConnector/Schemas/**" />
+		<None Remove="$(PkgPath)/CrtMatomoConnector/Resources/**" />
+  </ItemGroup>
+</Project>

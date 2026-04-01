@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/Data/**" />
+		<Compile Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/Schemas\**" />
+		<Compile Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/Resources/**" />
+		<None Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/Assemblies/**" />
+		<None Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/Data/**" />
+		<None Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/SqlScripts/**" />
+		<None Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/Schemas/**" />
+		<None Remove="$(PkgPath)/CrtLandingPageInEngagementToolsApp/Resources/**" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtWebhookServiceBase\Files\Bin\CrtWebhookServiceBase.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtWebhookServiceBase\Files\Bin\CrtWebhookServiceBase.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtWebhookServiceBase\Files\obj\Release\CrtWebhookServiceBase.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtWebhookServiceBase\Files\obj\Release\CrtWebhookServiceBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtWebhookServiceBase\Files\obj\Release\CrtWebhookServiceBase.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtWebhookServiceBase\Files\obj\Release\CrtWebhookServiceBase.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtWebhookServiceBase\Files\obj\Release\CrtWebhookServiceBase.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtWebhookServiceBase\Files\obj\Release\CrtWebhookServiceBase.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtWebhookServiceBase\Files\obj\Release\CrtWebhookServiceBase.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtWebhookServiceBase\Files\obj\Release\CrtWebhookServiceBase.pdb

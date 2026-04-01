@@ -1,0 +1,11 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtDigitalAdsApp/Schemas/AdAccount/AdAccount.cs" Condition="Exists('$(PkgPath)/CrtDigitalAdsApp/Schemas/AdAccount/AdAccount.cs')" />
+		<Compile Include="$(PkgPath)/CrtDigitalAdsApp/Schemas/AdAccountConnectionState/AdAccountConnectionState.cs" Condition="Exists('$(PkgPath)/CrtDigitalAdsApp/Schemas/AdAccountConnectionState/AdAccountConnectionState.cs')" />
+		<Compile Include="$(PkgPath)/CrtDigitalAdsApp/Schemas/AdCampaign/AdCampaign.cs" Condition="Exists('$(PkgPath)/CrtDigitalAdsApp/Schemas/AdCampaign/AdCampaign.cs')" />
+		<Compile Include="$(PkgPath)/CrtDigitalAdsApp/Schemas/AdCampaignDailyInsights/AdCampaignDailyInsights.cs" Condition="Exists('$(PkgPath)/CrtDigitalAdsApp/Schemas/AdCampaignDailyInsights/AdCampaignDailyInsights.cs')" />
+		<Compile Include="$(PkgPath)/CrtDigitalAdsApp/Schemas/AdCampaignStatus/AdCampaignStatus.cs" Condition="Exists('$(PkgPath)/CrtDigitalAdsApp/Schemas/AdCampaignStatus/AdCampaignStatus.cs')" />
+		<Compile Include="$(PkgPath)/CrtDigitalAdsApp/Schemas/AdPlatform/AdPlatform.cs" Condition="Exists('$(PkgPath)/CrtDigitalAdsApp/Schemas/AdPlatform/AdPlatform.cs')" />
+		<Compile Include="$(PkgPath)/CrtDigitalAdsApp/Schemas/VirtualAdAccount/VirtualAdAccount.cs" Condition="Exists('$(PkgPath)/CrtDigitalAdsApp/Schemas/VirtualAdAccount/VirtualAdAccount.cs')" />
+	</ItemGroup>
+</Project>

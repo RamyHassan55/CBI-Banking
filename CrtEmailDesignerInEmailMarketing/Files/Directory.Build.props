@@ -1,0 +1,5 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtEmailDesignerInEmailMarketing/Schemas/BfDisplayCondition/BfDisplayCondition.cs" Condition="Exists('$(PkgPath)/CrtEmailDesignerInEmailMarketing/Schemas/BfDisplayCondition/BfDisplayCondition.cs')" />
+	</ItemGroup>
+</Project>

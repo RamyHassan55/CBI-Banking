@@ -1,0 +1,8 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtLandingPage/Schemas/HTMLPage/HTMLPage.cs" Condition="Exists('$(PkgPath)/CrtLandingPage/Schemas/HTMLPage/HTMLPage.cs')" />
+		<Compile Include="$(PkgPath)/CrtLandingPage/Schemas/LandingPage/LandingPage.cs" Condition="Exists('$(PkgPath)/CrtLandingPage/Schemas/LandingPage/LandingPage.cs')" />
+		<Compile Include="$(PkgPath)/CrtLandingPage/Schemas/LandingPagePublicationState/LandingPagePublicationState.cs" Condition="Exists('$(PkgPath)/CrtLandingPage/Schemas/LandingPagePublicationState/LandingPagePublicationState.cs')" />
+		<Compile Include="$(PkgPath)/CrtLandingPage/Schemas/WebFormFieldDenyListEntity/WebFormFieldDenyListEntity.cs" Condition="Exists('$(PkgPath)/CrtLandingPage/Schemas/WebFormFieldDenyListEntity/WebFormFieldDenyListEntity.cs')" />
+	</ItemGroup>
+</Project>

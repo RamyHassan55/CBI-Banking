@@ -1,0 +1,5 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtDataForge/Schemas/DFSyncExceptions/DFSyncExceptions.cs" Condition="Exists('$(PkgPath)/CrtDataForge/Schemas/DFSyncExceptions/DFSyncExceptions.cs')" />
+	</ItemGroup>
+</Project>

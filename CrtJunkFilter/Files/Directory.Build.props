@@ -1,0 +1,7 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtJunkFilter/Schemas/Blacklist/Blacklist.cs" Condition="Exists('$(PkgPath)/CrtJunkFilter/Schemas/Blacklist/Blacklist.cs')" />
+		<Compile Include="$(PkgPath)/CrtJunkFilter/Schemas/HeaderProperty/HeaderProperty.cs" Condition="Exists('$(PkgPath)/CrtJunkFilter/Schemas/HeaderProperty/HeaderProperty.cs')" />
+		<Compile Include="$(PkgPath)/CrtJunkFilter/Schemas/JunkFilterTypeOfField/JunkFilterTypeOfField.cs" Condition="Exists('$(PkgPath)/CrtJunkFilter/Schemas/JunkFilterTypeOfField/JunkFilterTypeOfField.cs')" />
+	</ItemGroup>
+</Project>

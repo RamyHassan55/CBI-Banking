@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/CrtEngagementInC360/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/CrtEngagementInC360/Data/**" />
+		<Compile Remove="$(PkgPath)/CrtEngagementInC360/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/CrtEngagementInC360/Schemas\**" />
+		<Compile Remove="$(PkgPath)/CrtEngagementInC360/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEngagementInC360/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEngagementInC360/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEngagementInC360/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEngagementInC360/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtEngagementInC360/Resources/**" />
+		<None Remove="$(PkgPath)/CrtEngagementInC360/Assemblies/**" />
+		<None Remove="$(PkgPath)/CrtEngagementInC360/Data/**" />
+		<None Remove="$(PkgPath)/CrtEngagementInC360/SqlScripts/**" />
+		<None Remove="$(PkgPath)/CrtEngagementInC360/Schemas/**" />
+		<None Remove="$(PkgPath)/CrtEngagementInC360/Resources/**" />
+  </ItemGroup>
+</Project>

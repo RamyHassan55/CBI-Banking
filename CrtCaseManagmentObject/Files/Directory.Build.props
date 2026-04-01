@@ -1,0 +1,21 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/Activity/Activity.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/Activity/Activity.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/BaseCase/BaseCase.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/BaseCase/BaseCase.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/Case/Case.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/Case/Case.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseCategory/CaseCategory.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseCategory/CaseCategory.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseFile/CaseFile.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseFile/CaseFile.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseFolder/CaseFolder.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseFolder/CaseFolder.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseInFolder/CaseInFolder.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseInFolder/CaseInFolder.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseInTag/CaseInTag.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseInTag/CaseInTag.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseOrigin/CaseOrigin.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseOrigin/CaseOrigin.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/CasePriority/CasePriority.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/CasePriority/CasePriority.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseStatus/CaseStatus.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseStatus/CaseStatus.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseTag/CaseTag.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/CaseTag/CaseTag.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/ClosureCode/ClosureCode.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/ClosureCode/ClosureCode.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/KnowledgeBaseInCase/KnowledgeBaseInCase.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/KnowledgeBaseInCase/KnowledgeBaseInCase.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/SatisfactionLevel/SatisfactionLevel.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/SatisfactionLevel/SatisfactionLevel.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/SatisfactionUpdate/SatisfactionUpdate.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/SatisfactionUpdate/SatisfactionUpdate.cs')" />
+		<Compile Include="$(PkgPath)/CrtCaseManagmentObject/Schemas/ServiceObjectType/ServiceObjectType.cs" Condition="Exists('$(PkgPath)/CrtCaseManagmentObject/Schemas/ServiceObjectType/ServiceObjectType.cs')" />
+	</ItemGroup>
+</Project>

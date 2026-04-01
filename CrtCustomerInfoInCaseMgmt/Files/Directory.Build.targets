@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/Data/**" />
+		<Compile Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/Schemas\**" />
+		<Compile Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/Resources/**" />
+		<None Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/Assemblies/**" />
+		<None Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/Data/**" />
+		<None Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/SqlScripts/**" />
+		<None Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/Schemas/**" />
+		<None Remove="$(PkgPath)/CrtCustomerInfoInCaseMgmt/Resources/**" />
+  </ItemGroup>
+</Project>

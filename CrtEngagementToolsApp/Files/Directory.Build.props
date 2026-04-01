@@ -1,0 +1,9 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtEngagementToolsApp/Schemas/FormSubmit/FormSubmit.cs" Condition="Exists('$(PkgPath)/CrtEngagementToolsApp/Schemas/FormSubmit/FormSubmit.cs')" />
+		<Compile Include="$(PkgPath)/CrtEngagementToolsApp/Schemas/GeneratedWebForm/GeneratedWebForm.cs" Condition="Exists('$(PkgPath)/CrtEngagementToolsApp/Schemas/GeneratedWebForm/GeneratedWebForm.cs')" />
+		<Compile Include="$(PkgPath)/CrtEngagementToolsApp/Schemas/LandingLeadDefaults/LandingLeadDefaults.cs" Condition="Exists('$(PkgPath)/CrtEngagementToolsApp/Schemas/LandingLeadDefaults/LandingLeadDefaults.cs')" />
+		<Compile Include="$(PkgPath)/CrtEngagementToolsApp/Schemas/LandingObjectDefaults/LandingObjectDefaults.cs" Condition="Exists('$(PkgPath)/CrtEngagementToolsApp/Schemas/LandingObjectDefaults/LandingObjectDefaults.cs')" />
+		<Compile Include="$(PkgPath)/CrtEngagementToolsApp/Schemas/WebFormsAndPages/WebFormsAndPages.cs" Condition="Exists('$(PkgPath)/CrtEngagementToolsApp/Schemas/WebFormsAndPages/WebFormsAndPages.cs')" />
+	</ItemGroup>
+</Project>

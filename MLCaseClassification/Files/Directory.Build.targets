@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/MLCaseClassification/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/MLCaseClassification/Data/**" />
+		<Compile Remove="$(PkgPath)/MLCaseClassification/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/MLCaseClassification/Schemas\**" />
+		<Compile Remove="$(PkgPath)/MLCaseClassification/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MLCaseClassification/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MLCaseClassification/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MLCaseClassification/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MLCaseClassification/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/MLCaseClassification/Resources/**" />
+		<None Remove="$(PkgPath)/MLCaseClassification/Assemblies/**" />
+		<None Remove="$(PkgPath)/MLCaseClassification/Data/**" />
+		<None Remove="$(PkgPath)/MLCaseClassification/SqlScripts/**" />
+		<None Remove="$(PkgPath)/MLCaseClassification/Schemas/**" />
+		<None Remove="$(PkgPath)/MLCaseClassification/Resources/**" />
+  </ItemGroup>
+</Project>

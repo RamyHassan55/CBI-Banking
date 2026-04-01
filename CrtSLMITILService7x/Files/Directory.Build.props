@@ -1,0 +1,6 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtSLMITILService7x/Schemas/ServiceInServicePact/ServiceInServicePact.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService7x/Schemas/ServiceInServicePact/ServiceInServicePact.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLMITILService7x/Schemas/TimeToPrioritize/TimeToPrioritize.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService7x/Schemas/TimeToPrioritize/TimeToPrioritize.cs')" />
+	</ItemGroup>
+</Project>

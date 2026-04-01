@@ -1,0 +1,18 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtSLMITILService/Schemas/Case/Case.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService/Schemas/Case/Case.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLMITILService/Schemas/CaseLifecycle/CaseLifecycle.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService/Schemas/CaseLifecycle/CaseLifecycle.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLMITILService/Schemas/RoleInServiceTeam/RoleInServiceTeam.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService/Schemas/RoleInServiceTeam/RoleInServiceTeam.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLMITILService/Schemas/ServiceEngineer/ServiceEngineer.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService/Schemas/ServiceEngineer/ServiceEngineer.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLMITILService/Schemas/ServiceItem/ServiceItem.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService/Schemas/ServiceItem/ServiceItem.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLMITILService/Schemas/ServiceObject/ServiceObject.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService/Schemas/ServiceObject/ServiceObject.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLMITILService/Schemas/ServicePact/ServicePact.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService/Schemas/ServicePact/ServicePact.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLMITILService/Schemas/ServicePactFile/ServicePactFile.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService/Schemas/ServicePactFile/ServicePactFile.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLMITILService/Schemas/ServicePactFolder/ServicePactFolder.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService/Schemas/ServicePactFolder/ServicePactFolder.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLMITILService/Schemas/ServicePactInFolder/ServicePactInFolder.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService/Schemas/ServicePactInFolder/ServicePactInFolder.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLMITILService/Schemas/ServicePactInTag/ServicePactInTag.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService/Schemas/ServicePactInTag/ServicePactInTag.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLMITILService/Schemas/ServicePactStatus/ServicePactStatus.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService/Schemas/ServicePactStatus/ServicePactStatus.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLMITILService/Schemas/ServicePactTag/ServicePactTag.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService/Schemas/ServicePactTag/ServicePactTag.cs')" />
+		<Compile Include="$(PkgPath)/CrtSLMITILService/Schemas/ServicePactType/ServicePactType.cs" Condition="Exists('$(PkgPath)/CrtSLMITILService/Schemas/ServicePactType/ServicePactType.cs')" />
+	</ItemGroup>
+</Project>

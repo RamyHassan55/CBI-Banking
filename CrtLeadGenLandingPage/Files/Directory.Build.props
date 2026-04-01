@@ -1,0 +1,6 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtLeadGenLandingPage/Schemas/FormSubmit/FormSubmit.cs" Condition="Exists('$(PkgPath)/CrtLeadGenLandingPage/Schemas/FormSubmit/FormSubmit.cs')" />
+		<Compile Include="$(PkgPath)/CrtLeadGenLandingPage/Schemas/Lead/Lead.cs" Condition="Exists('$(PkgPath)/CrtLeadGenLandingPage/Schemas/Lead/Lead.cs')" />
+	</ItemGroup>
+</Project>
