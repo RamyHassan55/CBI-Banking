@@ -1,29 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDataForge\\Files\\CrtDataForge.csproj": {}
+    "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDataForge\\Files\\CrtDataForge.csproj": {}
   },
   "projects": {
-    "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\CrtCoreBase.csproj": {
+    "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\CrtCoreBase.csproj": {
       "version": "8.3.1.4498",
       "restore": {
-        "projectUniqueName": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\CrtCoreBase.csproj",
+        "projectUniqueName": "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\CrtCoreBase.csproj",
         "projectName": "CrtCoreBase",
-        "projectPath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\CrtCoreBase.csproj",
-        "packagesPath": "C:\\Users\\CIAdmin\\.nuget\\packages\\",
-        "outputPath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\obj\\",
+        "projectPath": "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\CrtCoreBase.csproj",
+        "packagesPath": "C:\\WINDOWS\\TEMP\\5\\IIS APPPOOL_Creatio0.3\\Default\\dotnet\\.nuget\\packages\\",
+        "outputPath": "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\CIAdmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\WINDOWS\\TEMP\\5\\IIS APPPOOL_Creatio0.3\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net472"
         ],
         "sources": {
-          "https://ts1-infr-nexus.bpmonline.com/repository/nuget-v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net472": {
@@ -41,42 +38,47 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net472": {
           "targetAlias": "net472",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDataForge\\Files\\CrtDataForge.csproj": {
+    "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDataForge\\Files\\CrtDataForge.csproj": {
       "version": "8.3.1.4498",
       "restore": {
-        "projectUniqueName": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDataForge\\Files\\CrtDataForge.csproj",
+        "projectUniqueName": "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDataForge\\Files\\CrtDataForge.csproj",
         "projectName": "CrtDataForge",
-        "projectPath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDataForge\\Files\\CrtDataForge.csproj",
-        "packagesPath": "C:\\Users\\CIAdmin\\.nuget\\packages\\",
-        "outputPath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDataForge\\Files\\obj\\",
+        "projectPath": "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDataForge\\Files\\CrtDataForge.csproj",
+        "packagesPath": "C:\\WINDOWS\\TEMP\\5\\IIS APPPOOL_Creatio0.3\\Default\\dotnet\\.nuget\\packages\\",
+        "outputPath": "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDataForge\\Files\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\CIAdmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\WINDOWS\\TEMP\\5\\IIS APPPOOL_Creatio0.3\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net472"
         ],
         "sources": {
-          "https://ts1-infr-nexus.bpmonline.com/repository/nuget-v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net472": {
             "targetAlias": "net472",
             "projectReferences": {
-              "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\CrtCoreBase.csproj": {
-                "projectPath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\CrtCoreBase.csproj"
+              "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\CrtCoreBase.csproj": {
+                "projectPath": "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCoreBase\\Files\\CrtCoreBase.csproj"
               }
             }
           }
@@ -91,12 +93,20 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net472": {
           "targetAlias": "net472",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

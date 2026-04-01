@@ -7,3 +7,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtC
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\Bin\CrtCore.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\Bin\CrtCore.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.pdb

@@ -7,3 +7,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtI
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\Bin\CrtInvoice.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\Bin\CrtInvoice.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.pdb

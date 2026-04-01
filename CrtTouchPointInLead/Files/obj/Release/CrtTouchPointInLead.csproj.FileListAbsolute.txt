@@ -7,3 +7,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtT
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\Bin\CrtTouchPointInLead.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\Bin\CrtTouchPointInLead.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.pdb

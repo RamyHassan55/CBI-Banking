@@ -7,3 +7,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtS
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSecurity7x\Files\obj\Release\CrtSecurity7x.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSecurity7x\Files\obj\Release\CrtSecurity7x.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSecurity7x\Files\obj\Release\CrtSecurity7x.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSecurity7x\Files\Bin\CrtSecurity7x.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSecurity7x\Files\Bin\CrtSecurity7x.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSecurity7x\Files\obj\Release\CrtSecurity7x.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSecurity7x\Files\obj\Release\CrtSecurity7x.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSecurity7x\Files\obj\Release\CrtSecurity7x.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSecurity7x\Files\obj\Release\CrtSecurity7x.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSecurity7x\Files\obj\Release\CrtSecurity7x.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSecurity7x\Files\obj\Release\CrtSecurity7x.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSecurity7x\Files\obj\Release\CrtSecurity7x.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSecurity7x\Files\obj\Release\CrtSecurity7x.pdb

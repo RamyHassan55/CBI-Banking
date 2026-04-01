@@ -7,3 +7,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtM
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingInC360\Files\obj\Release\CrtMarketingInC360.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingInC360\Files\obj\Release\CrtMarketingInC360.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingInC360\Files\obj\Release\CrtMarketingInC360.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingInC360\Files\Bin\CrtMarketingInC360.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingInC360\Files\Bin\CrtMarketingInC360.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingInC360\Files\obj\Release\CrtMarketingInC360.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingInC360\Files\obj\Release\CrtMarketingInC360.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingInC360\Files\obj\Release\CrtMarketingInC360.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingInC360\Files\obj\Release\CrtMarketingInC360.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingInC360\Files\obj\Release\CrtMarketingInC360.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingInC360\Files\obj\Release\CrtMarketingInC360.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingInC360\Files\obj\Release\CrtMarketingInC360.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMarketingInC360\Files\obj\Release\CrtMarketingInC360.pdb

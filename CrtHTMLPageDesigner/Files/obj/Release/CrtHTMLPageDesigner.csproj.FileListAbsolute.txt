@@ -17,3 +17,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtH
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\Bin\CrtHTMLPageDesigner.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\Bin\CrtHTMLPageDesigner.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.pdb

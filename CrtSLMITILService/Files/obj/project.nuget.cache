@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+TE8Bz2+nVs=",
+  "dgSpecHash": "VUvK11lXzko=",
   "success": true,
-  "projectFilePath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtSLMITILService\\Files\\CrtSLMITILService.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtSLMITILService\\Files\\CrtSLMITILService.csproj",
+  "expectedPackageFiles": [
+    "C:\\WINDOWS\\TEMP\\5\\IIS APPPOOL_Creatio0.3\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\WINDOWS\\TEMP\\5\\IIS APPPOOL_Creatio0.3\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

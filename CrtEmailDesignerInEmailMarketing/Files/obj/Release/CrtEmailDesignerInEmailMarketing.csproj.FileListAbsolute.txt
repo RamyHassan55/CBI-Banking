@@ -1,0 +1,12 @@
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerInEmailMarketing\Files\Bin\CrtEmailDesignerInEmailMarketing.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerInEmailMarketing\Files\Bin\CrtEmailDesignerInEmailMarketing.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerInEmailMarketing\Files\Bin\AngleSharp.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerInEmailMarketing\Files\obj\Release\CrtEmailDesignerInEmailMarketing.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerInEmailMarketing\Files\obj\Release\CrtEmailDesignerInEmailMarketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerInEmailMarketing\Files\obj\Release\CrtEmailDesignerInEmailMarketing.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerInEmailMarketing\Files\obj\Release\CrtEmailDesignerInEmailMarketing.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerInEmailMarketing\Files\obj\Release\CrtEmailDesignerInEmailMarketing.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerInEmailMarketing\Files\obj\Release\CrtEmailDesignerInEmailMarketing.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerInEmailMarketing\Files\obj\Release\CrtEmail.494FC2B9.Up2Date
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerInEmailMarketing\Files\obj\Release\CrtEmailDesignerInEmailMarketing.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerInEmailMarketing\Files\obj\Release\CrtEmailDesignerInEmailMarketing.pdb

@@ -17,3 +17,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtE
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerAI\Files\obj\Release\CrtEmailDesignerAI.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerAI\Files\obj\Release\CrtEmailDesignerAI.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerAI\Files\obj\Release\CrtEmailDesignerAI.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerAI\Files\Bin\CrtEmailDesignerAI.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerAI\Files\Bin\CrtEmailDesignerAI.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerAI\Files\obj\Release\CrtEmailDesignerAI.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerAI\Files\obj\Release\CrtEmailDesignerAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerAI\Files\obj\Release\CrtEmailDesignerAI.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerAI\Files\obj\Release\CrtEmailDesignerAI.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerAI\Files\obj\Release\CrtEmailDesignerAI.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerAI\Files\obj\Release\CrtEmailDesignerAI.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerAI\Files\obj\Release\CrtEmailDesignerAI.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEmailDesignerAI\Files\obj\Release\CrtEmailDesignerAI.pdb

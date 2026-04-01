@@ -7,3 +7,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtB
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\Bin\CrtBulkEmailCopilot.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\Bin\CrtBulkEmailCopilot.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtBulkEmailCopilot\Files\obj\Release\CrtBulkEmailCopilot.pdb

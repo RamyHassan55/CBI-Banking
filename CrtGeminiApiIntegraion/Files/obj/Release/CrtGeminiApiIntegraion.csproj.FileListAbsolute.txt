@@ -7,3 +7,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtG
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGeminiApiIntegraion\Files\obj\Release\CrtGeminiApiIntegraion.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGeminiApiIntegraion\Files\obj\Release\CrtGeminiApiIntegraion.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGeminiApiIntegraion\Files\obj\Release\CrtGeminiApiIntegraion.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGeminiApiIntegraion\Files\Bin\CrtGeminiApiIntegraion.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGeminiApiIntegraion\Files\Bin\CrtGeminiApiIntegraion.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGeminiApiIntegraion\Files\obj\Release\CrtGeminiApiIntegraion.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGeminiApiIntegraion\Files\obj\Release\CrtGeminiApiIntegraion.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGeminiApiIntegraion\Files\obj\Release\CrtGeminiApiIntegraion.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGeminiApiIntegraion\Files\obj\Release\CrtGeminiApiIntegraion.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGeminiApiIntegraion\Files\obj\Release\CrtGeminiApiIntegraion.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGeminiApiIntegraion\Files\obj\Release\CrtGeminiApiIntegraion.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGeminiApiIntegraion\Files\obj\Release\CrtGeminiApiIntegraion.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtGeminiApiIntegraion\Files\obj\Release\CrtGeminiApiIntegraion.pdb

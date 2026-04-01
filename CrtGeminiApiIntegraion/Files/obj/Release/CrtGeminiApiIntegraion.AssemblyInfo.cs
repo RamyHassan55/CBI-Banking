@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrtGeminiApiIntegraion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("8.3.1.4498")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.3.1.4498")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.3.1.4498+8f350b2354a4dfe4772fe61b49bcf0e0bb207db1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrtGeminiApiIntegraion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrtGeminiApiIntegraion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("8.3.1.4498")]

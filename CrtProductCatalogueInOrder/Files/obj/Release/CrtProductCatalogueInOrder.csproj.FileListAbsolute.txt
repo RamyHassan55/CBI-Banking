@@ -7,3 +7,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtP
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInOrder\Files\obj\Release\CrtProductCatalogueInOrder.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInOrder\Files\obj\Release\CrtProductCatalogueInOrder.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInOrder\Files\obj\Release\CrtProductCatalogueInOrder.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInOrder\Files\Bin\CrtProductCatalogueInOrder.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInOrder\Files\Bin\CrtProductCatalogueInOrder.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInOrder\Files\obj\Release\CrtProductCatalogueInOrder.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInOrder\Files\obj\Release\CrtProductCatalogueInOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInOrder\Files\obj\Release\CrtProductCatalogueInOrder.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInOrder\Files\obj\Release\CrtProductCatalogueInOrder.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInOrder\Files\obj\Release\CrtProductCatalogueInOrder.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInOrder\Files\obj\Release\CrtProductCatalogueInOrder.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInOrder\Files\obj\Release\CrtProductCatalogueInOrder.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogueInOrder\Files\obj\Release\CrtProductCatalogueInOrder.pdb

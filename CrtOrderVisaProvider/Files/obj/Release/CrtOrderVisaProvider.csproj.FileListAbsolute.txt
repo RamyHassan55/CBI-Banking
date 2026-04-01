@@ -7,3 +7,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtO
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\Bin\CrtOrderVisaProvider.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\Bin\CrtOrderVisaProvider.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderVisaProvider\Files\obj\Release\CrtOrderVisaProvider.pdb

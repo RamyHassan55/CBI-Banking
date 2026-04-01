@@ -7,3 +7,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtM
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\Bin\CrtMLOpportunityScoring.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\Bin\CrtMLOpportunityScoring.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtMLOpportunityScoring\Files\obj\Release\CrtMLOpportunityScoring.pdb

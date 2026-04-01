@@ -7,3 +7,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSi
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\Bin\MLSimilarCaseSearch.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\Bin\MLSimilarCaseSearch.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLSimilarCaseSearch\Files\obj\Release\MLSimilarCaseSearch.pdb

@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtKnowledgeManagementInCaseManagement\\Files\\CrtKnowledgeManagementInCaseManagement.csproj": {}
+  },
+  "projects": {
+    "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtKnowledgeManagementInCaseManagement\\Files\\CrtKnowledgeManagementInCaseManagement.csproj": {
+      "version": "8.3.1.4498",
+      "restore": {
+        "projectUniqueName": "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtKnowledgeManagementInCaseManagement\\Files\\CrtKnowledgeManagementInCaseManagement.csproj",
+        "projectName": "CrtKnowledgeManagementInCaseManagement",
+        "projectPath": "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtKnowledgeManagementInCaseManagement\\Files\\CrtKnowledgeManagementInCaseManagement.csproj",
+        "packagesPath": "C:\\WINDOWS\\TEMP\\5\\IIS APPPOOL_Creatio0.3\\Default\\dotnet\\.nuget\\packages\\",
+        "outputPath": "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtKnowledgeManagementInCaseManagement\\Files\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\WINDOWS\\TEMP\\5\\IIS APPPOOL_Creatio0.3\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

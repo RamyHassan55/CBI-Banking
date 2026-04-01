@@ -7,3 +7,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtC
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\Bin\CrtCaseKnowledgeCopilot.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\Bin\CrtCaseKnowledgeCopilot.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseKnowledgeCopilot\Files\obj\Release\CrtCaseKnowledgeCopilot.pdb

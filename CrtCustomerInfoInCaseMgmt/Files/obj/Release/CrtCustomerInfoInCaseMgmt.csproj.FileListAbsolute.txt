@@ -7,3 +7,13 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtC
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\Bin\CrtCustomerInfoInCaseMgmt.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\Bin\CrtCustomerInfoInCaseMgmt.pdb
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.AssemblyInfo.cs
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.sourcelink.json
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.dll
+C:\inetpub\wwwroot\Creatio0.3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomerInfoInCaseMgmt\Files\obj\Release\CrtCustomerInfoInCaseMgmt.pdb

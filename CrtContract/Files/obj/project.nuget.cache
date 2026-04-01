@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/cH8ZnPfaS8=",
+  "dgSpecHash": "Y6C6oi+spp0=",
   "success": true,
-  "projectFilePath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtContract\\Files\\CrtContract.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\inetpub\\wwwroot\\Creatio0.3\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtContract\\Files\\CrtContract.csproj",
+  "expectedPackageFiles": [
+    "C:\\WINDOWS\\TEMP\\5\\IIS APPPOOL_Creatio0.3\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\WINDOWS\\TEMP\\5\\IIS APPPOOL_Creatio0.3\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
