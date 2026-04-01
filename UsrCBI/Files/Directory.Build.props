@@ -1,6 +1,12 @@
 <Project>
 	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
 		<Compile Include="$(PkgPath)/UsrCBI/Schemas/UsrCBI/UsrCBI.cs" Condition="Exists('$(PkgPath)/UsrCBI/Schemas/UsrCBI/UsrCBI.cs')" />
+		<Compile Include="$(PkgPath)/UsrCBI/Schemas/UsrCBIStatus/UsrCBIStatus.cs" Condition="Exists('$(PkgPath)/UsrCBI/Schemas/UsrCBIStatus/UsrCBIStatus.cs')" />
+		<Compile Include="$(PkgPath)/UsrCBI/Schemas/UsrDepartment/UsrDepartment.cs" Condition="Exists('$(PkgPath)/UsrCBI/Schemas/UsrDepartment/UsrDepartment.cs')" />
+		<Compile Include="$(PkgPath)/UsrCBI/Schemas/UsrPermissions/UsrPermissions.cs" Condition="Exists('$(PkgPath)/UsrCBI/Schemas/UsrPermissions/UsrPermissions.cs')" />
 		<Compile Include="$(PkgPath)/UsrCBI/Schemas/UsrReport/UsrReport.cs" Condition="Exists('$(PkgPath)/UsrCBI/Schemas/UsrReport/UsrReport.cs')" />
+		<Compile Include="$(PkgPath)/UsrCBI/Schemas/UsrRole/UsrRole.cs" Condition="Exists('$(PkgPath)/UsrCBI/Schemas/UsrRole/UsrRole.cs')" />
+		<Compile Include="$(PkgPath)/UsrCBI/Schemas/UsrRolePermission/UsrRolePermission.cs" Condition="Exists('$(PkgPath)/UsrCBI/Schemas/UsrRolePermission/UsrRolePermission.cs')" />
+		<Compile Include="$(PkgPath)/UsrCBI/Schemas/UsrUserRole/UsrUserRole.cs" Condition="Exists('$(PkgPath)/UsrCBI/Schemas/UsrUserRole/UsrUserRole.cs')" />
 	</ItemGroup>
 </Project>

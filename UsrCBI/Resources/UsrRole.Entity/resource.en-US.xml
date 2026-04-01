@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Role" />
+			<Item Name="Columns.UsrChecker.Caption" Value="Checker" />
+			<Item Name="Columns.UsrCreatedDate.Caption" Value="CreatedDate" />
+			<Item Name="Columns.UsrDescription.Caption" Value="Description" />
+			<Item Name="Columns.UsrMaker.Caption" Value="Maker" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

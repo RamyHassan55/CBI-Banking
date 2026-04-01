@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="UserRole" />
+			<Item Name="Columns.UsrChecker.Caption" Value="Checker" />
+			<Item Name="Columns.UsrDepartments.Caption" Value="Departments" />
+			<Item Name="Columns.UsrMaker.Caption" Value="Maker" />
+			<Item Name="Columns.UsrRole.Caption" Value="Role" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+			<Item Name="Columns.UsrUser.Caption" Value="User" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

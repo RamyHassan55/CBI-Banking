@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Role Permission" />
+			<Item Name="Columns.UsrPermission.Caption" Value="Permission" />
+			<Item Name="Columns.UsrRole.Caption" Value="Role" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

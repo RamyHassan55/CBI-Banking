@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3cac317a-97bc-4f2e-a262-fe95d791afd4",
+    "Name": "UsrPermissions",
+    "ModifiedOnUtc": "\/Date(1775036723000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Permissions",
+    "DependsOn": []
+  }
+}
