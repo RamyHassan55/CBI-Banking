@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "80d16100-1bef-4a0e-8302-9a89eda42e55",
+    "Name": "UsrRoles_FormPage",
+    "ModifiedOnUtc": "\/Date(1775055743000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Roles form page"
+  }
+}

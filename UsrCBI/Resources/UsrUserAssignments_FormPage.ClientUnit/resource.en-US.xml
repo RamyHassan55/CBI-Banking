@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="User Assignments form page" />
+			<Item Name="LocalizableStrings.addRecord_33jghwf_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_f7qtx2r_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_gkv6ky3_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ih09802_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_q9c5hu0_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_xx06sx6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.SaveButton_caption.Value" Value="Submit" />
+		</Items>
+	</Group>
+</Resources>

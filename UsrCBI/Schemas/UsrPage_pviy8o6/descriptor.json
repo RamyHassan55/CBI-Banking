@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "0a166299-34a6-4317-a3f5-99dbbcd70e6f",
+    "Name": "UsrPage_pviy8o6",
+    "ModifiedOnUtc": "\/Date(1775048298000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Role Permission modal page"
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "23916cd0-d671-4bb4-b3c6-b7db9fc1c095",
+    "Name": "UsrRoles_Detail",
+    "ModifiedOnUtc": "\/Date(1775044955000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Roles detail",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "990b69b3-ad2f-4550-ac2e-867b57e2be10",
+    "Name": "UsrUserAssignmentsRelatedPage",
+    "ModifiedOnUtc": "\/Date(1775045850000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "User Assignments (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.cf8c1b39-f9c2-6649-b220-eafb8be3c197.Caption" Value="Show elements: Status" />
+			<Item Name="Caption" Value="User Assignments form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

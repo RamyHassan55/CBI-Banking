@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "62f5b1c5-d494-4b5b-9120-6aa2a0006c31",
+    "Name": "UsrRolesRelatedPage",
+    "ModifiedOnUtc": "\/Date(1775044955000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Roles (Page settings)",
+    "DependsOn": []
+  }
+}

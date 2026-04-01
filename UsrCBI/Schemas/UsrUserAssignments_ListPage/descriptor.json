@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cf97ba1d-948d-4ba4-95d2-6bdd3a771eca",
+    "Name": "UsrUserAssignments_ListPage",
+    "ModifiedOnUtc": "\/Date(1775045850000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "User Assignments list page",
+    "DependsOn": []
+  }
+}

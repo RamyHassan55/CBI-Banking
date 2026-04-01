@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e1eb7807-f99e-417e-945f-ab929c53b70a",
+    "Name": "UsrUserAssignments_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1775050617000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "User Assignments form page (Business rules)",
+    "DependsOn": []
+  }
+}

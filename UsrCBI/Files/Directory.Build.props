@@ -7,6 +7,8 @@
 		<Compile Include="$(PkgPath)/UsrCBI/Schemas/UsrReport/UsrReport.cs" Condition="Exists('$(PkgPath)/UsrCBI/Schemas/UsrReport/UsrReport.cs')" />
 		<Compile Include="$(PkgPath)/UsrCBI/Schemas/UsrRole/UsrRole.cs" Condition="Exists('$(PkgPath)/UsrCBI/Schemas/UsrRole/UsrRole.cs')" />
 		<Compile Include="$(PkgPath)/UsrCBI/Schemas/UsrRolePermission/UsrRolePermission.cs" Condition="Exists('$(PkgPath)/UsrCBI/Schemas/UsrRolePermission/UsrRolePermission.cs')" />
+		<Compile Include="$(PkgPath)/UsrCBI/Schemas/UsrRoleStatus/UsrRoleStatus.cs" Condition="Exists('$(PkgPath)/UsrCBI/Schemas/UsrRoleStatus/UsrRoleStatus.cs')" />
+		<Compile Include="$(PkgPath)/UsrCBI/Schemas/UsrStage/UsrStage.cs" Condition="Exists('$(PkgPath)/UsrCBI/Schemas/UsrStage/UsrStage.cs')" />
 		<Compile Include="$(PkgPath)/UsrCBI/Schemas/UsrUserRole/UsrUserRole.cs" Condition="Exists('$(PkgPath)/UsrCBI/Schemas/UsrUserRole/UsrUserRole.cs')" />
 	</ItemGroup>
 </Project>
