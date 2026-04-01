@@ -1066,6 +1066,8 @@
 		<Compile Remove="$(RelativePkgFolderPath)/UsrCBI/Schemas/UsrReport/UsrReport.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrCBI/Schemas/UsrReport/UsrReport.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrCBI/Schemas/UsrRole/UsrRole.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrCBI/Schemas/UsrRole/UsrRole.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrCBI/Schemas/UsrRolePermission/UsrRolePermission.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrCBI/Schemas/UsrRolePermission/UsrRolePermission.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrCBI/Schemas/UsrRoleStatus/UsrRoleStatus.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrCBI/Schemas/UsrRoleStatus/UsrRoleStatus.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrCBI/Schemas/UsrStage/UsrStage.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrCBI/Schemas/UsrStage/UsrStage.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrCBI/Schemas/UsrUserRole/UsrUserRole.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrCBI/Schemas/UsrUserRole/UsrUserRole.cs')" />
 	</ItemGroup>
 	<ItemGroup Label="3rd Party References"></ItemGroup>

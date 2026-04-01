@@ -6,6 +6,7 @@
 			<Item Name="Columns.UsrChecker.Caption" Value="Checker" />
 			<Item Name="Columns.UsrDepartments.Caption" Value="Departments" />
 			<Item Name="Columns.UsrMaker.Caption" Value="Maker" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
 			<Item Name="Columns.UsrRole.Caption" Value="Role" />
 			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
 			<Item Name="Columns.UsrUser.Caption" Value="User" />

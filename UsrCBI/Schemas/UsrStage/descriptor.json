@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b3f46db2-6449-4c9a-98b3-2bacf53e5ff1",
+    "Name": "UsrStage",
+    "ModifiedOnUtc": "\/Date(1775053774000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Stage",
+    "DependsOn": []
+  }
+}
